@@ -1,0 +1,63 @@
+name: NGO Funding Scraper
+
+on:
+  # Run daily at 9:00 AM CET (8:00 AM UTC)
+  schedule:
+    - cron: '0 8 * * *'
+
+  # Allow manual trigger
+  workflow_dispatch:
+    inputs:
+      test_notification:
+        description: 'Send test notification instead of scraping'
+        required: false
+        default: 'false'
+        type: boolean
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    # Grant write permissions to push updates
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Send test notification
+        if: ${{ github.event.inputs.test_notification == 'true' }}
+        run: python -m scraper.main --test-notify
+
+      - name: Run scraper
+        if: ${{ github.event.inputs.test_notification != 'true' }}
+        run: python -m scraper.main
+
+      - name: Commit and push changes
+        if: ${{ github.event.inputs.test_notification != 'true' }}
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Add data and docs files
+          git add data/seen_funding.json docs/index.html
+
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update funding listings - $(date -u +%Y-%m-%d)"
+            git push
+          fi
