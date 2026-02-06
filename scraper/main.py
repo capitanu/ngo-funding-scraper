@@ -564,18 +564,76 @@ def generate_dashboard(matching_funding: List[Dict], last_updated: str) -> None:
             'ngohub': 'NGO Hub / Eurodesk'
         }};
 
+        // Supabase config
+        const SUPABASE_URL = 'https://fydclxflriuwbsmnizij.supabase.co';
+        const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ5ZGNseGZscml1d2JzbW5pemlqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzA0MDI0MzQsImV4cCI6MjA4NTk3ODQzNH0.ZGmA9gHrb5A-ZRLUMlPf2zjm9-OhB3QUbXO6JRFG1dU';
+
         let applied = [];
         let irrelevant = [];
+        let saveTimeout = null;
 
-        function loadState() {{
-            applied = JSON.parse(localStorage.getItem('qub-funding-applied') || '[]');
-            irrelevant = JSON.parse(localStorage.getItem('qub-funding-irrelevant') || '[]');
+        function setSyncStatus(msg) {{
+            document.getElementById('sync-status').textContent = msg;
+        }}
+
+        async function loadState() {{
+            setSyncStatus('Se incarca...');
+            try {{
+                const res = await fetch(`${{SUPABASE_URL}}/rest/v1/funding_state?id=eq.default&select=applied,irrelevant`, {{
+                    headers: {{
+                        'apikey': SUPABASE_KEY,
+                        'Authorization': `Bearer ${{SUPABASE_KEY}}`
+                    }}
+                }});
+                if (res.ok) {{
+                    const data = await res.json();
+                    if (data.length > 0) {{
+                        applied = data[0].applied || [];
+                        irrelevant = data[0].irrelevant || [];
+                    }}
+                    setSyncStatus('Sincronizat');
+                }} else {{
+                    throw new Error('Failed to load');
+                }}
+            }} catch (e) {{
+                console.error('Load error:', e);
+                setSyncStatus('Offline - date locale');
+                applied = JSON.parse(localStorage.getItem('qub-funding-applied') || '[]');
+                irrelevant = JSON.parse(localStorage.getItem('qub-funding-irrelevant') || '[]');
+            }}
             render();
         }}
 
         function saveState() {{
+            // Always save to localStorage as backup
             localStorage.setItem('qub-funding-applied', JSON.stringify(applied));
             localStorage.setItem('qub-funding-irrelevant', JSON.stringify(irrelevant));
+
+            // Debounce cloud save
+            if (saveTimeout) clearTimeout(saveTimeout);
+            setSyncStatus('Se salveaza...');
+            saveTimeout = setTimeout(async () => {{
+                try {{
+                    const res = await fetch(`${{SUPABASE_URL}}/rest/v1/funding_state?id=eq.default`, {{
+                        method: 'PATCH',
+                        headers: {{
+                            'apikey': SUPABASE_KEY,
+                            'Authorization': `Bearer ${{SUPABASE_KEY}}`,
+                            'Content-Type': 'application/json',
+                            'Prefer': 'return=minimal'
+                        }},
+                        body: JSON.stringify({{ applied, irrelevant }})
+                    }});
+                    if (res.ok) {{
+                        setSyncStatus('Sincronizat');
+                    }} else {{
+                        throw new Error('Save failed');
+                    }}
+                }} catch (e) {{
+                    console.error('Save error:', e);
+                    setSyncStatus('Eroare sincronizare - salvat local');
+                }}
+            }}, 500);
         }}
 
         function formatDate(dateStr) {{
