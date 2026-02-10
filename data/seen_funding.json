@@ -64,18 +64,6 @@
         "civic"
       ]
     },
-    "fdsc_afb650148566": {
-      "first_seen": "2026-02-06T19:19:18.117632",
-      "title": "Programul de Implicare Civic\u0103 lanseaz\u0103 Apelul 2: granturi pentru proiecte cu impact local sau na\u021bional",
-      "url": "https://www.fdsc.ro/programul-de-implicare-civica-lanseaza-apelul-2-granturi-pentru-proiecte-cu-impact-local-sau-national-2/",
-      "source": "fdsc",
-      "deadline": null,
-      "matched_keywords": [
-        "ong",
-        "granturi",
-        "capacitare"
-      ]
-    },
     "fdsc_cc3b29ab8db0": {
       "first_seen": "2026-02-06T19:19:18.118861",
       "title": "Afl\u0103 mai multe",
@@ -167,7 +155,17 @@
         "incluziune",
         "voluntariat"
       ]
+    },
+    "fonduri_structurale_97453828be6f": {
+      "first_seen": "2026-02-10T09:00:21.379235",
+      "title": "PIDS: Se solicit\u0103 clarific\u0103ri \u00een evaluarea preliminar\u0103 pe apelul pentru servicii de \u00eengrijire la domiciliu pentru persoanele v\u00e2rstnice ITI Delta Dun\u0103rii \u0219i ITI Microregiunea \u021aara F\u0103g\u0103ra\u0219uluiAutoritatea de Management pentru Programul Incluziune \u0219i Demnitate Social\u0103 (PIDS) 2021 \u2013 2027 informeaz\u0103 solicitan\u021bii c\u0103, \u00eencep\u00e2nd cu data de ast\u0103zi, ...9 Februarie 2026Cite\u0219te articolul",
+      "url": "https://www.fonduri-structurale.ro/stiri/39464/pids-se-solicita-clarificari-in-evaluarea-preliminara-pe-apelul-pentru-servicii-de-ingrijire-la-domiciliu-pentru-persoanele-varstnice-iti-delta-dunarii-si-iti-microregiunea-tara-fagarasului",
+      "source": "fonduri_structurale",
+      "deadline": null,
+      "matched_keywords": [
+        "incluziune"
+      ]
     }
   },
-  "last_updated": "2026-02-09T08:58:48.873491"
+  "last_updated": "2026-02-10T09:00:21.770779"
 }
