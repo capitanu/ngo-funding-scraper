@@ -142,7 +142,20 @@
         "ngo",
         "grant"
       ]
+    },
+    "ngohub_b87377070127": {
+      "first_seen": "2026-02-13T08:50:35.663752",
+      "title": "Programe UE pentru tineri",
+      "url": "https://www.eurodesk.ro/pag-3",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineret",
+        "tineri",
+        "incluziune",
+        "voluntariat"
+      ]
     }
   },
-  "last_updated": "2026-02-12T08:53:40.543542"
+  "last_updated": "2026-02-13T08:50:39.707763"
 }
