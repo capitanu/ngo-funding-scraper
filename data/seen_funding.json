@@ -155,7 +155,18 @@
         "incluziune",
         "voluntariat"
       ]
+    },
+    "fdsc_f4f4aa25aaa9": {
+      "first_seen": "2026-02-17T08:53:05.603267",
+      "title": "Nou raport european: spa\u021biul civic din Rom\u00e2nia",
+      "url": "https://www.fdsc.ro/nou-raport-european-spatiul-civic-din-romania/",
+      "source": "fdsc",
+      "deadline": null,
+      "matched_keywords": [
+        "capacitare",
+        "civic"
+      ]
     }
   },
-  "last_updated": "2026-02-16T08:54:32.504186"
+  "last_updated": "2026-02-17T08:53:06.016241"
 }
