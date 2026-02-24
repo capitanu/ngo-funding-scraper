@@ -167,16 +167,6 @@
         "civic"
       ]
     },
-    "fonduri_structurale_f2336bdbe3b1": {
-      "first_seen": "2026-02-18T08:52:20.692233",
-      "title": "Apel 2 - Infrastructuri de cercetare, inovare \u0219i transfer tehnologic \u00een colaborare cu IMM-urile",
-      "url": "https://www.fonduri-structurale.ro/finantari/2080/apel-2-infrastructuri-de-cercetare-inovare-si-transfer-tehnologic-in-colaborare-cu-imm-urile",
-      "source": "fonduri_structurale",
-      "deadline": null,
-      "matched_keywords": [
-        "inovare"
-      ]
-    },
     "ngohub_f5f2228a768c": {
       "first_seen": "2026-02-18T08:52:20.730095",
       "title": "Comisia European\u0103 a anun\u021bat c\u00e2\u0219tig\u0103torii concursului \u201eJuvenes Translatores\u201d, edi\u021bia 2025",
@@ -192,7 +182,20 @@
         "incluziune",
         "voluntariat"
       ]
+    },
+    "ngohub_6c98f5c08b69": {
+      "first_seen": "2026-02-24T08:54:41.832717",
+      "title": "Apel EuroPeers 2026",
+      "url": "https://www.eurodesk.ro/evenimente-det/vrs/IDev/2598",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineret",
+        "tineri",
+        "incluziune",
+        "voluntariat"
+      ]
     }
   },
-  "last_updated": "2026-02-23T08:55:12.406139"
+  "last_updated": "2026-02-24T08:54:42.119059"
 }
