@@ -53,17 +53,6 @@
         "incluziune"
       ]
     },
-    "fdsc_02e24835f94b": {
-      "first_seen": "2026-02-06T19:19:18.116387",
-      "title": "Elve\u021bia \u0219i Rom\u00e2nia au marcat lansarea Programului de Implicare Civic\u0103 \u2013 un pas important pentru consolidarea societ\u0103\u021bii civile din Rom\u00e2nia",
-      "url": "https://www.fdsc.ro/elvetia-si-romania-au-marcat-lansarea-programului-de-implicare-civica-un-pas-important-pentru-consolidarea-societatii-civile-din-romania-2/",
-      "source": "fdsc",
-      "deadline": null,
-      "matched_keywords": [
-        "capacitare",
-        "civic"
-      ]
-    },
     "fdsc_cc3b29ab8db0": {
       "first_seen": "2026-02-06T19:19:18.118861",
       "title": "Afl\u0103 mai multe",
@@ -195,7 +184,19 @@
         "incluziune",
         "voluntariat"
       ]
+    },
+    "fdsc_94c2cfd937c5": {
+      "first_seen": "2026-03-12T08:51:13.579301",
+      "title": "FDSC lanseaz\u0103 LegiXplore ONG",
+      "url": "https://www.fdsc.ro/fdsc-lanseaza-legixplore-ong/",
+      "source": "fdsc",
+      "deadline": null,
+      "matched_keywords": [
+        "ong",
+        "digital",
+        "capacitare"
+      ]
     }
   },
-  "last_updated": "2026-03-11T08:49:38.971160"
+  "last_updated": "2026-03-12T08:51:13.743909"
 }
