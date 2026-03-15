@@ -89,62 +89,6 @@
         "grant"
       ]
     },
-    "active_citizens_6fff312a0e84": {
-      "first_seen": "2026-02-15T08:38:00.529799",
-      "title": "Harta apelurilor",
-      "url": "https://activecitizensfund.ro/harta-apelurilor/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "ong"
-      ]
-    },
-    "active_citizens_e0d529635755": {
-      "first_seen": "2026-02-15T08:38:00.532023",
-      "title": "Apeluri \u00eenchise",
-      "url": "https://activecitizensfund.ro/apeluri-inchise/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "grant",
-        "civic"
-      ]
-    },
-    "active_citizens_5bba5dbc9577": {
-      "first_seen": "2026-02-15T08:38:00.534183",
-      "title": "Proiecte \u00een evaluare",
-      "url": "https://activecitizensfund.ro/proiecte-in-evaluare/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "granturi",
-        "civic"
-      ]
-    },
-    "active_citizens_283928e7c4e6": {
-      "first_seen": "2026-02-15T08:38:00.542890",
-      "title": "Programul3",
-      "url": "https://activecitizensfund.ro/trillenials/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "tineri",
-        "civic"
-      ]
-    },
-    "ngohub_b87377070127": {
-      "first_seen": "2026-02-15T08:38:00.546968",
-      "title": "Programe UE pentru tineri",
-      "url": "https://www.eurodesk.ro/pag-3",
-      "source": "ngohub",
-      "deadline": null,
-      "matched_keywords": [
-        "tineret",
-        "tineri",
-        "incluziune",
-        "voluntariat"
-      ]
-    },
     "fdsc_f4f4aa25aaa9": {
       "first_seen": "2026-02-17T08:53:05.603267",
       "title": "Nou raport european: spa\u021biul civic din Rom\u00e2nia",
@@ -154,35 +98,6 @@
       "matched_keywords": [
         "capacitare",
         "civic"
-      ]
-    },
-    "ngohub_f5f2228a768c": {
-      "first_seen": "2026-02-18T08:52:20.730095",
-      "title": "Comisia European\u0103 a anun\u021bat c\u00e2\u0219tig\u0103torii concursului \u201eJuvenes Translatores\u201d, edi\u021bia 2025",
-      "url": "https://www.eurodesk.ro/stire/vrs/IDstire/1351",
-      "source": "ngohub",
-      "deadline": null,
-      "matched_keywords": [
-        "tineret",
-        "tineri",
-        "elevi",
-        "cultural",
-        "comunitate",
-        "incluziune",
-        "voluntariat"
-      ]
-    },
-    "ngohub_6c98f5c08b69": {
-      "first_seen": "2026-02-24T08:54:41.832717",
-      "title": "Apel EuroPeers 2026",
-      "url": "https://www.eurodesk.ro/evenimente-det/vrs/IDev/2598",
-      "source": "ngohub",
-      "deadline": null,
-      "matched_keywords": [
-        "tineret",
-        "tineri",
-        "incluziune",
-        "voluntariat"
       ]
     },
     "fdsc_94c2cfd937c5": {
@@ -198,5 +113,5 @@
       ]
     }
   },
-  "last_updated": "2026-03-14T08:40:45.204532"
+  "last_updated": "2026-03-15T08:41:01.743975"
 }
