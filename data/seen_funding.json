@@ -154,7 +154,17 @@
         "incluziune",
         "voluntariat"
       ]
+    },
+    "fonduri_structurale_7cd376a3e242": {
+      "first_seen": "2026-04-21T09:43:07.631897",
+      "title": "Apel de finan\u021bare a proiectelor culturale sesiunea II / 2026",
+      "url": "https://www.fonduri-structurale.ro/finantari/2104/apel-de-finantare-a-proiectelor-culturale-sesiunea-ii-2026",
+      "source": "fonduri_structurale",
+      "deadline": null,
+      "matched_keywords": [
+        "culturale"
+      ]
     }
   },
-  "last_updated": "2026-04-20T10:01:40.015186"
+  "last_updated": "2026-04-21T09:43:07.791433"
 }
