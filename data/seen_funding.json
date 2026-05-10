@@ -99,62 +99,6 @@
         "capacitare"
       ]
     },
-    "active_citizens_6fff312a0e84": {
-      "first_seen": "2026-03-23T09:01:49.790111",
-      "title": "Harta apelurilor",
-      "url": "https://activecitizensfund.ro/harta-apelurilor/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "ong"
-      ]
-    },
-    "active_citizens_e0d529635755": {
-      "first_seen": "2026-03-23T09:01:49.792273",
-      "title": "Apeluri \u00eenchise",
-      "url": "https://activecitizensfund.ro/apeluri-inchise/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "grant",
-        "civic"
-      ]
-    },
-    "active_citizens_5bba5dbc9577": {
-      "first_seen": "2026-03-23T09:01:49.794393",
-      "title": "Proiecte \u00een evaluare",
-      "url": "https://activecitizensfund.ro/proiecte-in-evaluare/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "granturi",
-        "civic"
-      ]
-    },
-    "active_citizens_283928e7c4e6": {
-      "first_seen": "2026-03-23T09:01:49.802947",
-      "title": "Programul3",
-      "url": "https://activecitizensfund.ro/trillenials/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "tineri",
-        "civic"
-      ]
-    },
-    "ngohub_b87377070127": {
-      "first_seen": "2026-03-23T09:01:49.807002",
-      "title": "Programe UE pentru tineri",
-      "url": "https://www.eurodesk.ro/pag-3",
-      "source": "ngohub",
-      "deadline": null,
-      "matched_keywords": [
-        "tineret",
-        "tineri",
-        "incluziune",
-        "voluntariat"
-      ]
-    },
     "fonduri_structurale_8e42ddaaa380": {
       "first_seen": "2026-05-09T09:22:49.713241",
       "title": "Finan\u021bare nerambursabil\u0103 pentru proiecte culturale \u00een Municipiului Sf\u00e2ntu GheorgheSe acord\u0103 finan\u021b\u0103ri nerambursabile pentru proiecte culturale, ini\u021biate de asocia\u021bii sau funda\u021bii, exclusiv pentru activit\u0103\u021bi de interes public local.Finan\u021b\u0103ri nerambursabile din fonduri publice8 Mai 2026 - 29 Mai 2026Finan\u021bare activ\u0103Vezi mai multe detalii",
@@ -187,5 +131,5 @@
       ]
     }
   },
-  "last_updated": "2026-05-09T09:22:50.549793"
+  "last_updated": "2026-05-10T09:40:45.615674"
 }
