@@ -129,7 +129,63 @@
       "matched_keywords": [
         "tineret"
       ]
+    },
+    "active_citizens_6fff312a0e84": {
+      "first_seen": "2026-05-11T11:27:25.778724",
+      "title": "Harta apelurilor",
+      "url": "https://activecitizensfund.ro/harta-apelurilor/",
+      "source": "active_citizens",
+      "deadline": null,
+      "matched_keywords": [
+        "ong"
+      ]
+    },
+    "active_citizens_e0d529635755": {
+      "first_seen": "2026-05-11T11:27:25.780886",
+      "title": "Apeluri \u00eenchise",
+      "url": "https://activecitizensfund.ro/apeluri-inchise/",
+      "source": "active_citizens",
+      "deadline": null,
+      "matched_keywords": [
+        "grant",
+        "civic"
+      ]
+    },
+    "active_citizens_5bba5dbc9577": {
+      "first_seen": "2026-05-11T11:27:25.783002",
+      "title": "Proiecte \u00een evaluare",
+      "url": "https://activecitizensfund.ro/proiecte-in-evaluare/",
+      "source": "active_citizens",
+      "deadline": null,
+      "matched_keywords": [
+        "granturi",
+        "civic"
+      ]
+    },
+    "active_citizens_283928e7c4e6": {
+      "first_seen": "2026-05-11T11:27:25.791485",
+      "title": "Programul3",
+      "url": "https://activecitizensfund.ro/trillenials/",
+      "source": "active_citizens",
+      "deadline": null,
+      "matched_keywords": [
+        "tineri",
+        "civic"
+      ]
+    },
+    "ngohub_b87377070127": {
+      "first_seen": "2026-05-11T11:27:25.795567",
+      "title": "Programe UE pentru tineri",
+      "url": "https://www.eurodesk.ro/pag-3",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineret",
+        "tineri",
+        "incluziune",
+        "voluntariat"
+      ]
     }
   },
-  "last_updated": "2026-05-10T09:40:45.615674"
+  "last_updated": "2026-05-11T11:27:27.021117"
 }
