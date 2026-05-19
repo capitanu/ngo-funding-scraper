@@ -155,16 +155,27 @@
         "voluntariat"
       ]
     },
-    "fonduri_structurale_1d4412ee926e": {
-      "first_seen": "2026-05-18T11:46:39.756521",
-      "title": "PR Centru: Noi modific\u0103ri pe apelurile dedicate platformelor de inovare deschis\u0103ADR Centru, \u00een calitate de Autoritate de Management pentru Programul \u201eRegiunea Centru\u201d (PR Centru), a a publicat vineri, 15 mai 2026, corrigendumul nr...18 Mai 2026Cite\u0219te articolul",
-      "url": "https://www.fonduri-structurale.ro/stiri/40229/pr-centru-noi-modificari-pe-apelurile-dedicate-platformelor-de-inovare-deschisa",
+    "fonduri_structurale_20838fce2d37": {
+      "first_seen": "2026-05-19T11:22:30.939513",
+      "title": "Finan\u021bare nerambursabil\u0103 pentru activit\u0103\u0163ile de tineret din jude\u0163ul HarghitaScopul programului este \u00eent\u0103rirea rela\u021biilor interpersonale ale tinerilor, \u00een special ale liceenilor \u0219i tinerilor, contribuind la petrecerea timpului ...Finan\u021b\u0103ri nerambursabile din fonduri publice5 Mai 2026 - 11 Iun. 2026Finan\u021bare activ\u0103Vezi mai multe detalii",
+      "url": "https://www.fonduri-structurale.ro/finantari/2297/finantare-nerambursabila-pentru-activitatile-de-tineret-din-judetul-harghita",
       "source": "fonduri_structurale",
       "deadline": null,
       "matched_keywords": [
-        "inovare"
+        "tineret"
+      ]
+    },
+    "fdsc_97123b93d9e1": {
+      "first_seen": "2026-05-19T11:22:30.947578",
+      "title": "Dreptul de asociere nu poate fi restr\u00e2ns sub pretextul transparen\u021bei.",
+      "url": "https://www.fdsc.ro/dreptul-de-asociere-nu-poate-fi-restrans-sub-pretextul-transparentei/",
+      "source": "fdsc",
+      "deadline": null,
+      "matched_keywords": [
+        "capacitare",
+        "civic"
       ]
     }
   },
-  "last_updated": "2026-05-18T11:46:39.926550"
+  "last_updated": "2026-05-19T11:22:31.202318"
 }
