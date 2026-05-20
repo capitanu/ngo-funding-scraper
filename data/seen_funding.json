@@ -76,17 +76,6 @@
         "grant"
       ]
     },
-    "fdsc_f4f4aa25aaa9": {
-      "first_seen": "2026-02-17T08:53:05.603267",
-      "title": "Nou raport european: spa\u021biul civic din Rom\u00e2nia",
-      "url": "https://www.fdsc.ro/nou-raport-european-spatiul-civic-din-romania/",
-      "source": "fdsc",
-      "deadline": null,
-      "matched_keywords": [
-        "capacitare",
-        "civic"
-      ]
-    },
     "fdsc_94c2cfd937c5": {
       "first_seen": "2026-03-12T08:51:13.579301",
       "title": "FDSC lanseaz\u0103 LegiXplore ONG",
@@ -155,16 +144,6 @@
         "voluntariat"
       ]
     },
-    "fonduri_structurale_20838fce2d37": {
-      "first_seen": "2026-05-19T11:22:30.939513",
-      "title": "Finan\u021bare nerambursabil\u0103 pentru activit\u0103\u0163ile de tineret din jude\u0163ul HarghitaScopul programului este \u00eent\u0103rirea rela\u021biilor interpersonale ale tinerilor, \u00een special ale liceenilor \u0219i tinerilor, contribuind la petrecerea timpului ...Finan\u021b\u0103ri nerambursabile din fonduri publice5 Mai 2026 - 11 Iun. 2026Finan\u021bare activ\u0103Vezi mai multe detalii",
-      "url": "https://www.fonduri-structurale.ro/finantari/2297/finantare-nerambursabila-pentru-activitatile-de-tineret-din-judetul-harghita",
-      "source": "fonduri_structurale",
-      "deadline": null,
-      "matched_keywords": [
-        "tineret"
-      ]
-    },
     "fdsc_97123b93d9e1": {
       "first_seen": "2026-05-19T11:22:30.947578",
       "title": "Dreptul de asociere nu poate fi restr\u00e2ns sub pretextul transparen\u021bei.",
@@ -177,5 +156,5 @@
       ]
     }
   },
-  "last_updated": "2026-05-19T11:22:31.202318"
+  "last_updated": "2026-05-20T10:54:29.023137"
 }
