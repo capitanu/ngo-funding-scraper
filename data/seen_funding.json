@@ -88,62 +88,6 @@
         "capacitare"
       ]
     },
-    "active_citizens_6fff312a0e84": {
-      "first_seen": "2026-05-11T11:27:25.778724",
-      "title": "Harta apelurilor",
-      "url": "https://activecitizensfund.ro/harta-apelurilor/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "ong"
-      ]
-    },
-    "active_citizens_e0d529635755": {
-      "first_seen": "2026-05-11T11:27:25.780886",
-      "title": "Apeluri \u00eenchise",
-      "url": "https://activecitizensfund.ro/apeluri-inchise/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "grant",
-        "civic"
-      ]
-    },
-    "active_citizens_5bba5dbc9577": {
-      "first_seen": "2026-05-11T11:27:25.783002",
-      "title": "Proiecte \u00een evaluare",
-      "url": "https://activecitizensfund.ro/proiecte-in-evaluare/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "granturi",
-        "civic"
-      ]
-    },
-    "active_citizens_283928e7c4e6": {
-      "first_seen": "2026-05-11T11:27:25.791485",
-      "title": "Programul3",
-      "url": "https://activecitizensfund.ro/trillenials/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "tineri",
-        "civic"
-      ]
-    },
-    "ngohub_b87377070127": {
-      "first_seen": "2026-05-11T11:27:25.795567",
-      "title": "Programe UE pentru tineri",
-      "url": "https://www.eurodesk.ro/pag-3",
-      "source": "ngohub",
-      "deadline": null,
-      "matched_keywords": [
-        "tineret",
-        "tineri",
-        "incluziune",
-        "voluntariat"
-      ]
-    },
     "fdsc_97123b93d9e1": {
       "first_seen": "2026-05-19T11:22:30.947578",
       "title": "Dreptul de asociere nu poate fi restr\u00e2ns sub pretextul transparen\u021bei.",
@@ -154,7 +98,17 @@
         "capacitare",
         "civic"
       ]
+    },
+    "fonduri_structurale_df65860cac96": {
+      "first_seen": "2026-06-02T12:06:42.915204",
+      "title": "S-a lansat apelul pentru sus\u021binerea edit\u0103rii revistelor \u0219i publica\u021biilor culturale, altele dec\u00e2t cele propuse de  Uniunile de Creatori din Rom\u00e2niaMinisterul Culturii a lansat s\u0103pt\u0103m\u00e2na trecut\u0103 procedura de selec\u0163ie a revistelor \u015fi publica\u0163iilor culturale, altele dec\u00e2t cele propuse de Uniunile de...2 Iunie 2026Cite\u0219te articolul",
+      "url": "https://www.fonduri-structurale.ro/stiri/40359/s-a-lansat-apelul-pentru-sustinerea-editarii-revistelor-si-publicatiilor-culturale-altele-decat-cele-propuse-de-uniunile-de-creatori-din-romania",
+      "source": "fonduri_structurale",
+      "deadline": null,
+      "matched_keywords": [
+        "culturale"
+      ]
     }
   },
-  "last_updated": "2026-06-01T13:39:43.375270"
+  "last_updated": "2026-06-02T12:06:43.071659"
 }
