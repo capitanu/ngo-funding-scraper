@@ -99,16 +99,62 @@
         "civic"
       ]
     },
-    "fonduri_structurale_91837ca3c87b": {
-      "first_seen": "2026-06-03T12:43:42.971671",
-      "title": "S-a lansat apelul pentru expresii de interes destinat select\u0103rii intermediarilor financiari care vor implementa instrumentul financiar finan\u021bat prin PCIDIFMinisterul Investi\u021biilor \u0219i Proiectelor Europene (MIPE), prin Programul Cre\u0219tere Inteligent\u0103, Digitalizare \u0219i Instrumente Financiare (PCIDIF) 2021\u2013202...3 Iunie 2026Cite\u0219te articolul",
-      "url": "https://www.fonduri-structurale.ro/stiri/40381/s-a-lansat-apelul-pentru-expresii-de-interes-destinat-selectarii-intermediarilor-financiari-care-vor-implementa-instrumentul-financiar-finantat-prin-pcidif",
-      "source": "fonduri_structurale",
+    "active_citizens_6fff312a0e84": {
+      "first_seen": "2026-06-04T11:17:20.824218",
+      "title": "Harta apelurilor",
+      "url": "https://activecitizensfund.ro/harta-apelurilor/",
+      "source": "active_citizens",
       "deadline": null,
       "matched_keywords": [
-        "digitalizare"
+        "ong"
+      ]
+    },
+    "active_citizens_e0d529635755": {
+      "first_seen": "2026-06-04T11:17:20.826318",
+      "title": "Apeluri \u00eenchise",
+      "url": "https://activecitizensfund.ro/apeluri-inchise/",
+      "source": "active_citizens",
+      "deadline": null,
+      "matched_keywords": [
+        "grant",
+        "civic"
+      ]
+    },
+    "active_citizens_5bba5dbc9577": {
+      "first_seen": "2026-06-04T11:17:20.828419",
+      "title": "Proiecte \u00een evaluare",
+      "url": "https://activecitizensfund.ro/proiecte-in-evaluare/",
+      "source": "active_citizens",
+      "deadline": null,
+      "matched_keywords": [
+        "granturi",
+        "civic"
+      ]
+    },
+    "active_citizens_283928e7c4e6": {
+      "first_seen": "2026-06-04T11:17:20.836812",
+      "title": "Programul3",
+      "url": "https://activecitizensfund.ro/trillenials/",
+      "source": "active_citizens",
+      "deadline": null,
+      "matched_keywords": [
+        "tineri",
+        "civic"
+      ]
+    },
+    "ngohub_b87377070127": {
+      "first_seen": "2026-06-04T11:17:20.840724",
+      "title": "Programe UE pentru tineri",
+      "url": "https://www.eurodesk.ro/pag-3",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineret",
+        "tineri",
+        "incluziune",
+        "voluntariat"
       ]
     }
   },
-  "last_updated": "2026-06-03T12:43:43.148181"
+  "last_updated": "2026-06-04T11:17:21.123645"
 }
