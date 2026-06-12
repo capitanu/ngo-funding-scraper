@@ -99,17 +99,19 @@
         "civic"
       ]
     },
-    "fonduri_structurale_cf7e55d25229": {
-      "first_seen": "2026-06-11T12:11:57.369610",
-      "title": "Apelul 2 Granturi neramburabile pentru sprijinirea activit\u0103\u021bi culturale rom\u00e2ne\u0219ti din Republica Moldova",
-      "url": "https://www.fonduri-structurale.ro/finantari/2358/apelul-2-granturi-neramburabile-pentru-sprijinirea-activitati-culturale-romanesti-din-republica-moldova",
-      "source": "fonduri_structurale",
+    "ngohub_b87377070127": {
+      "first_seen": "2026-06-12T11:45:45.921487",
+      "title": "Programe UE pentru tineri",
+      "url": "https://www.eurodesk.ro/pag-3",
+      "source": "ngohub",
       "deadline": null,
       "matched_keywords": [
-        "granturi",
-        "culturale"
+        "tineret",
+        "tineri",
+        "incluziune",
+        "voluntariat"
       ]
     }
   },
-  "last_updated": "2026-06-11T12:11:57.639107"
+  "last_updated": "2026-06-12T11:45:46.191782"
 }
