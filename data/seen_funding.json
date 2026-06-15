@@ -112,26 +112,19 @@
         "voluntariat"
       ]
     },
-    "fonduri_structurale_1e2deb80c3a0": {
-      "first_seen": "2026-06-13T10:32:31.441302",
-      "title": "Sprijin pentru micro\u00eentreprinderile selectate prin proiectul Crowd4SME-NW \u00een cadrul \u201eCROWDFUNDMATCH\u201d Interreg Europe \u2013 apel pilotApelul de proiecte ofer\u0103 granturi pentru micro\u00eentreprinderi, sprijinind investi\u021bii \u00een echipamente, tehnologii \u0219i servicii pentru cre\u0219terea competitivi...Programul Regional Nord-Vest22 Iun. 2026 - 10 Iul. 2026Finan\u021bare activ\u0103Vezi mai multe detalii",
-      "url": "https://www.fonduri-structurale.ro/finantari/2298/sprijin-pentru-microintreprinderile-selectate-prin-proiectul-crowd4-sme-nw-in-cadrul-crowdfundmatch-interreg-europe-apel-pilot",
-      "source": "fonduri_structurale",
+    "ngohub_fef8766c51b6": {
+      "first_seen": "2026-06-15T14:25:44.169460",
+      "title": "Apel pentru \u00eenscrieri: cea de-a XV-a edi\u021bie a Galei Premiilor Particip\u0103rii Publice",
+      "url": "https://www.eurodesk.ro/stire/vrs/IDstire/1384",
+      "source": "ngohub",
       "deadline": null,
       "matched_keywords": [
-        "granturi"
-      ]
-    },
-    "fonduri_structurale_1bc0d13b5c98": {
-      "first_seen": "2026-06-14T10:50:19.895868",
-      "title": "Tehnologie modern\u0103 pentru laboratorul de microbiologie al Spitalului CFR din Severin prin Programul S\u0103n\u0103tateAgen\u021bia pentru Dezvoltare Regional\u0103 Sud-Vest Oltenia a anun\u021bat vineri, 12 iunie 2026, faptul c\u0103 laboratorul de microbiologie al Spitalului General C\u0103i...13 Iunie 2026Cite\u0219te articolul",
-      "url": "https://www.fonduri-structurale.ro/stiri/40457/tehnologie-moderna-pentru-laboratorul-de-microbiologie-al-spitalului-cfr-din-severin-prin-programul-sanatate",
-      "source": "fonduri_structurale",
-      "deadline": null,
-      "matched_keywords": [
-        "tehnologie"
+        "tineret",
+        "tineri",
+        "comunitate",
+        "incluziune"
       ]
     }
   },
-  "last_updated": "2026-06-14T10:50:22.078698"
+  "last_updated": "2026-06-15T14:25:44.305581"
 }
