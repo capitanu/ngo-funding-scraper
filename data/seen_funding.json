@@ -76,18 +76,6 @@
         "grant"
       ]
     },
-    "fdsc_94c2cfd937c5": {
-      "first_seen": "2026-03-12T08:51:13.579301",
-      "title": "FDSC lanseaz\u0103 LegiXplore ONG",
-      "url": "https://www.fdsc.ro/fdsc-lanseaza-legixplore-ong/",
-      "source": "fdsc",
-      "deadline": null,
-      "matched_keywords": [
-        "ong",
-        "digital",
-        "capacitare"
-      ]
-    },
     "fdsc_97123b93d9e1": {
       "first_seen": "2026-05-19T11:22:30.947578",
       "title": "Dreptul de asociere nu poate fi restr\u00e2ns sub pretextul transparen\u021bei.",
@@ -126,5 +114,5 @@
       ]
     }
   },
-  "last_updated": "2026-06-15T14:25:44.305581"
+  "last_updated": "2026-06-16T12:56:37.683382"
 }
