@@ -86,76 +86,7 @@
         "capacitare",
         "civic"
       ]
-    },
-    "ngohub_b87377070127": {
-      "first_seen": "2026-06-12T11:45:45.921487",
-      "title": "Programe UE pentru tineri",
-      "url": "https://www.eurodesk.ro/pag-3",
-      "source": "ngohub",
-      "deadline": null,
-      "matched_keywords": [
-        "tineret",
-        "tineri",
-        "incluziune",
-        "voluntariat"
-      ]
-    },
-    "ngohub_fef8766c51b6": {
-      "first_seen": "2026-06-15T14:25:44.169460",
-      "title": "Apel pentru \u00eenscrieri: cea de-a XV-a edi\u021bie a Galei Premiilor Particip\u0103rii Publice",
-      "url": "https://www.eurodesk.ro/stire/vrs/IDstire/1384",
-      "source": "ngohub",
-      "deadline": null,
-      "matched_keywords": [
-        "tineret",
-        "tineri",
-        "comunitate",
-        "incluziune"
-      ]
-    },
-    "active_citizens_6fff312a0e84": {
-      "first_seen": "2026-06-23T11:20:21.634338",
-      "title": "Harta apelurilor",
-      "url": "https://activecitizensfund.ro/harta-apelurilor/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "ong"
-      ]
-    },
-    "active_citizens_e0d529635755": {
-      "first_seen": "2026-06-23T11:20:21.636455",
-      "title": "Apeluri \u00eenchise",
-      "url": "https://activecitizensfund.ro/apeluri-inchise/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "grant",
-        "civic"
-      ]
-    },
-    "active_citizens_5bba5dbc9577": {
-      "first_seen": "2026-06-23T11:20:21.638505",
-      "title": "Proiecte \u00een evaluare",
-      "url": "https://activecitizensfund.ro/proiecte-in-evaluare/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "granturi",
-        "civic"
-      ]
-    },
-    "active_citizens_283928e7c4e6": {
-      "first_seen": "2026-06-23T11:20:21.646737",
-      "title": "Programul3",
-      "url": "https://activecitizensfund.ro/trillenials/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "tineri",
-        "civic"
-      ]
     }
   },
-  "last_updated": "2026-06-25T10:45:43.531301"
+  "last_updated": "2026-06-26T10:54:07.024187"
 }
