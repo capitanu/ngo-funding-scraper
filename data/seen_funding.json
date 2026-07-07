@@ -86,7 +86,88 @@
         "capacitare",
         "civic"
       ]
+    },
+    "active_citizens_6fff312a0e84": {
+      "first_seen": "2026-07-07T11:10:26.441988",
+      "title": "Harta apelurilor",
+      "url": "https://activecitizensfund.ro/harta-apelurilor/",
+      "source": "active_citizens",
+      "deadline": null,
+      "matched_keywords": [
+        "ong"
+      ]
+    },
+    "active_citizens_e0d529635755": {
+      "first_seen": "2026-07-07T11:10:26.444103",
+      "title": "Apeluri \u00eenchise",
+      "url": "https://activecitizensfund.ro/apeluri-inchise/",
+      "source": "active_citizens",
+      "deadline": null,
+      "matched_keywords": [
+        "grant",
+        "civic"
+      ]
+    },
+    "active_citizens_5bba5dbc9577": {
+      "first_seen": "2026-07-07T11:10:26.446291",
+      "title": "Proiecte \u00een evaluare",
+      "url": "https://activecitizensfund.ro/proiecte-in-evaluare/",
+      "source": "active_citizens",
+      "deadline": null,
+      "matched_keywords": [
+        "granturi",
+        "civic"
+      ]
+    },
+    "active_citizens_283928e7c4e6": {
+      "first_seen": "2026-07-07T11:10:26.454548",
+      "title": "Programul3",
+      "url": "https://activecitizensfund.ro/trillenials/",
+      "source": "active_citizens",
+      "deadline": null,
+      "matched_keywords": [
+        "tineri",
+        "civic"
+      ]
+    },
+    "ngohub_b87377070127": {
+      "first_seen": "2026-07-07T11:10:26.458513",
+      "title": "Programe UE pentru tineri",
+      "url": "https://www.eurodesk.ro/pag-3",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineret",
+        "tineri",
+        "incluziune",
+        "voluntariat"
+      ]
+    },
+    "ngohub_8c6110e3f261": {
+      "first_seen": "2026-07-07T11:10:26.460552",
+      "title": "Apel pentru noii Delega\u021bi de Tineret la ONU 2026\u20132027",
+      "url": "https://www.eurodesk.ro/stire/vrs/IDstire/1386",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineret",
+        "tineri",
+        "incluziune"
+      ]
+    },
+    "ngohub_fef8766c51b6": {
+      "first_seen": "2026-07-07T11:10:26.462588",
+      "title": "Apel pentru \u00eenscrieri: cea de-a XV-a edi\u021bie a Galei Premiilor Particip\u0103rii Publice",
+      "url": "https://www.eurodesk.ro/stire/vrs/IDstire/1384",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineret",
+        "tineri",
+        "comunitate",
+        "incluziune"
+      ]
     }
   },
-  "last_updated": "2026-07-06T12:06:41.206655"
+  "last_updated": "2026-07-07T11:10:28.546049"
 }
