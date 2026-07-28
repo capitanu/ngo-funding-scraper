@@ -113,49 +113,6 @@
         "capacitare"
       ]
     },
-    "active_citizens_6fff312a0e84": {
-      "first_seen": "2026-07-24T10:21:18.273574",
-      "title": "Harta apelurilor",
-      "url": "https://activecitizensfund.ro/harta-apelurilor/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "ong"
-      ]
-    },
-    "active_citizens_e0d529635755": {
-      "first_seen": "2026-07-24T10:21:18.275731",
-      "title": "Apeluri \u00eenchise",
-      "url": "https://activecitizensfund.ro/apeluri-inchise/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "grant",
-        "civic"
-      ]
-    },
-    "active_citizens_5bba5dbc9577": {
-      "first_seen": "2026-07-24T10:21:18.277839",
-      "title": "Proiecte \u00een evaluare",
-      "url": "https://activecitizensfund.ro/proiecte-in-evaluare/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "granturi",
-        "civic"
-      ]
-    },
-    "active_citizens_283928e7c4e6": {
-      "first_seen": "2026-07-24T10:21:18.286329",
-      "title": "Programul3",
-      "url": "https://activecitizensfund.ro/trillenials/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "tineri",
-        "civic"
-      ]
-    },
     "ngohub_b87377070127": {
       "first_seen": "2026-07-24T10:21:18.290318",
       "title": "Programe UE pentru tineri",
@@ -193,17 +150,7 @@
         "comunitate",
         "incluziune"
       ]
-    },
-    "fonduri_structurale_a0b45391dace": {
-      "first_seen": "2026-07-27T11:27:01.000307",
-      "title": "PIDS: Lista intermediar\u0103 nr.1 a cererilor de finan\u021bare respinse \u00een evaluarea preliminar\u0103 pe apelul privind terapiile psihologice pentru copiii cu dizabilit\u0103\u021bi \u2013 ITI Valea JiuluiAutoritatea de Management pentru Programul Incluziune \u0219i Demnitate Social\u0103 (PIDS) 2021 \u2013 2027 a publicat ast\u0103zi, 27 iulie 2026, lista intermediar\u0103 nr....27 Iulie 2026Cite\u0219te articolul",
-      "url": "https://www.fonduri-structurale.ro/stiri/40831/pids-lista-intermediara-nr-1-a-cererilor-de-finantare-respinse-in-evaluarea-preliminara-pe-apelul-privind-terapiile-psihologice-pentru-copiii-cu-dizabilitati-iti-valea-jiului",
-      "source": "fonduri_structurale",
-      "deadline": null,
-      "matched_keywords": [
-        "incluziune"
-      ]
     }
   },
-  "last_updated": "2026-07-27T11:27:01.288068"
+  "last_updated": "2026-07-28T10:37:37.387451"
 }
