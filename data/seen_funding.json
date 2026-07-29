@@ -150,7 +150,50 @@
         "comunitate",
         "incluziune"
       ]
+    },
+    "active_citizens_6fff312a0e84": {
+      "first_seen": "2026-07-29T10:41:28.750343",
+      "title": "Harta apelurilor",
+      "url": "https://activecitizensfund.ro/harta-apelurilor/",
+      "source": "active_citizens",
+      "deadline": null,
+      "matched_keywords": [
+        "ong"
+      ]
+    },
+    "active_citizens_e0d529635755": {
+      "first_seen": "2026-07-29T10:41:28.752350",
+      "title": "Apeluri \u00eenchise",
+      "url": "https://activecitizensfund.ro/apeluri-inchise/",
+      "source": "active_citizens",
+      "deadline": null,
+      "matched_keywords": [
+        "grant",
+        "civic"
+      ]
+    },
+    "active_citizens_5bba5dbc9577": {
+      "first_seen": "2026-07-29T10:41:28.754348",
+      "title": "Proiecte \u00een evaluare",
+      "url": "https://activecitizensfund.ro/proiecte-in-evaluare/",
+      "source": "active_citizens",
+      "deadline": null,
+      "matched_keywords": [
+        "granturi",
+        "civic"
+      ]
+    },
+    "active_citizens_283928e7c4e6": {
+      "first_seen": "2026-07-29T10:41:28.762177",
+      "title": "Programul3",
+      "url": "https://activecitizensfund.ro/trillenials/",
+      "source": "active_citizens",
+      "deadline": null,
+      "matched_keywords": [
+        "tineri",
+        "civic"
+      ]
     }
   },
-  "last_updated": "2026-07-28T10:37:37.387451"
+  "last_updated": "2026-07-29T10:41:29.070405"
 }
