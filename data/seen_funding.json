@@ -126,18 +126,6 @@
         "voluntariat"
       ]
     },
-    "ngohub_8c6110e3f261": {
-      "first_seen": "2026-07-24T10:21:18.292281",
-      "title": "Apel pentru noii Delega\u021bi de Tineret la ONU 2026\u20132027",
-      "url": "https://www.eurodesk.ro/stire/vrs/IDstire/1386",
-      "source": "ngohub",
-      "deadline": null,
-      "matched_keywords": [
-        "tineret",
-        "tineri",
-        "incluziune"
-      ]
-    },
     "ngohub_fef8766c51b6": {
       "first_seen": "2026-07-24T10:21:18.294258",
       "title": "Apel pentru \u00eenscrieri: cea de-a XV-a edi\u021bie a Galei Premiilor Particip\u0103rii Publice",
@@ -193,7 +181,19 @@
         "tineri",
         "civic"
       ]
+    },
+    "fonduri_structurale_5727f1cb9415": {
+      "first_seen": "2026-07-31T10:42:05.746058",
+      "title": "Dezvoltare urban\u0103 integrat\u0103 prin regenerarea spa\u021biilor publice, punerea \u00een valoare a patrimoniului, infrastructurii culturale \u0219i a poten\u021bialului turistic din municipiile Regiunii Centru - Apel competitiv 2026Apelul de proiecte ofer\u0103 granturi pentru dezvoltarea urban\u0103 durabil\u0103 \u00een Regiunea Centru, finan\u021b\u00e2nd regenerarea spa\u021biilor publice, patrimoniul cultural...Programul Regiunea Centru20 Aug. 2026 - 20 Nov. 2026Finan\u021bare activ\u0103Vezi mai multe detalii",
+      "url": "https://www.fonduri-structurale.ro/finantari/2234/dezvoltare-urbana-integrata-prin-regenerarea-spatiilor-publice-punerea-in-valoare-a-patrimoniului-infrastructurii-culturale-si-a-potentialului-turistic-din-municipiile-regiunii-centru-apel-competitiv-2026",
+      "source": "fonduri_structurale",
+      "deadline": null,
+      "matched_keywords": [
+        "granturi",
+        "cultural",
+        "culturale"
+      ]
     }
   },
-  "last_updated": "2026-07-30T10:27:15.920899"
+  "last_updated": "2026-07-31T10:42:06.061229"
 }
