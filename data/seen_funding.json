@@ -113,27 +113,72 @@
         "capacitare"
       ]
     },
-    "fonduri_structurale_11de126d73e2": {
-      "first_seen": "2026-08-06T10:41:41.679575",
-      "title": "PR SV Oltenia: Noi modific\u0103ri pe apelul dedicat patrimoniului cultural \u00een mediul ruralADR Sud-Vest Oltenia, \u00een calitate de Autoritate de Management pentru Programul Regional Sud-Vest Oltenia 2021-2027, a publicat ieri, 5 iulie 2026, Cor...6 August 2026Cite\u0219te articolul",
-      "url": "https://www.fonduri-structurale.ro/stiri/40937/pr-sv-oltenia-noi-modificari-pe-apelul-dedicat-patrimoniului-cultural-in-mediul-rural",
+    "fonduri_structurale_299fee2445b9": {
+      "first_seen": "2026-08-07T09:01:56.104650",
+      "title": "PR SV Oltenia: Consultare public\u0103 pe cel de-al doilea apel dedicat patrimoniului cultural din mediul ruralADR Sud-Vest Oltenia, \u00een calitate de Autoritate de Management pentru Programul Regional Sud-Vest Oltenia 2021-2027, a lansat miercuri, 5 august 2026, ...6 August 2026Cite\u0219te articolul",
+      "url": "https://www.fonduri-structurale.ro/stiri/40942/pr-sv-oltenia-consultare-publica-pe-cel-de-al-doilea-apel-dedicat-patrimoniului-cultural-din-mediul-rural",
       "source": "fonduri_structurale",
       "deadline": null,
       "matched_keywords": [
         "cultural"
       ]
     },
-    "fonduri_structurale_e5728089099d": {
-      "first_seen": "2026-08-06T10:41:41.680177",
-      "title": "Finan\u021bare nerambursabil\u0103 pentru pentru activit\u0103\u0163i nonprofit de interes jude\u021bean din domeniul s\u0103n\u0103t\u0103\u021biiApelul de proiecte vizeaz\u0103 acordarea de finan\u021b\u0103ri nerambursabile pentru activit\u0103\u021bi nonprofit de interes jude\u021bean, gestionate de Consiliul Jude\u021bean Tel...Granturi pentru ONG-uri din bugetul local29 Iul. 2026 - 7 Sept. 2026Finan\u021bare activ\u0103Vezi mai multe detalii",
-      "url": "https://www.fonduri-structurale.ro/finantari/2460/finantare-nerambursabila-pentru-pentru-activitati-nonprofit-de-interes-judetean-din-domeniul-sanatatii",
-      "source": "fonduri_structurale",
+    "active_citizens_6fff312a0e84": {
+      "first_seen": "2026-08-07T09:01:56.117483",
+      "title": "Harta apelurilor",
+      "url": "https://activecitizensfund.ro/harta-apelurilor/",
+      "source": "active_citizens",
       "deadline": null,
       "matched_keywords": [
-        "ong",
-        "granturi"
+        "ong"
+      ]
+    },
+    "active_citizens_e0d529635755": {
+      "first_seen": "2026-08-07T09:01:56.118999",
+      "title": "Apeluri \u00eenchise",
+      "url": "https://activecitizensfund.ro/apeluri-inchise/",
+      "source": "active_citizens",
+      "deadline": null,
+      "matched_keywords": [
+        "grant",
+        "civic"
+      ]
+    },
+    "active_citizens_5bba5dbc9577": {
+      "first_seen": "2026-08-07T09:01:56.120426",
+      "title": "Proiecte \u00een evaluare",
+      "url": "https://activecitizensfund.ro/proiecte-in-evaluare/",
+      "source": "active_citizens",
+      "deadline": null,
+      "matched_keywords": [
+        "granturi",
+        "civic"
+      ]
+    },
+    "active_citizens_283928e7c4e6": {
+      "first_seen": "2026-08-07T09:01:56.126270",
+      "title": "Programul3",
+      "url": "https://activecitizensfund.ro/trillenials/",
+      "source": "active_citizens",
+      "deadline": null,
+      "matched_keywords": [
+        "tineri",
+        "civic"
+      ]
+    },
+    "ngohub_b87377070127": {
+      "first_seen": "2026-08-07T09:01:56.129118",
+      "title": "Programe UE pentru tineri",
+      "url": "https://www.eurodesk.ro/pag-3",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineret",
+        "tineri",
+        "incluziune",
+        "voluntariat"
       ]
     }
   },
-  "last_updated": "2026-08-06T10:41:42.219556"
+  "last_updated": "2026-08-07T09:01:56.872989"
 }
