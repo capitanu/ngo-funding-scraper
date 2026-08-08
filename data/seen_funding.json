@@ -113,72 +113,26 @@
         "capacitare"
       ]
     },
-    "fonduri_structurale_299fee2445b9": {
-      "first_seen": "2026-08-07T09:01:56.104650",
-      "title": "PR SV Oltenia: Consultare public\u0103 pe cel de-al doilea apel dedicat patrimoniului cultural din mediul ruralADR Sud-Vest Oltenia, \u00een calitate de Autoritate de Management pentru Programul Regional Sud-Vest Oltenia 2021-2027, a lansat miercuri, 5 august 2026, ...6 August 2026Cite\u0219te articolul",
-      "url": "https://www.fonduri-structurale.ro/stiri/40942/pr-sv-oltenia-consultare-publica-pe-cel-de-al-doilea-apel-dedicat-patrimoniului-cultural-din-mediul-rural",
+    "fonduri_structurale_1ecac784d496": {
+      "first_seen": "2026-08-08T08:44:41.013987",
+      "title": "PEO: Se solicit\u0103 clarific\u0103ri aferente etapei de evaluare tehnico-financiar\u0103 calitativ\u0103 pe apelul pentru dezvoltarea unei re\u021bele pentru tineret \u00een mediul rural \u0219i \u00een mediul urban mic care s\u0103 furnizeze servicii personalizate \u0219i de calitate tinerilor, cu prec\u0103dere din categoria NEETsAutoritatea de Management pentru Programul Educa\u021bie \u0219i Ocupare (PEO) 2021 - 2027 informeaz\u0103 solicitan\u021bii c\u0103, \u00eencep\u00e2nd cu data de ast\u0103zi, 7 august 2026...7 August 2026Cite\u0219te articolul",
+      "url": "https://www.fonduri-structurale.ro/stiri/40964/peo-se-solicita-clarificari-aferente-etapei-de-evaluare-tehnico-financiara-calitativa-pe-apelul-pentru-dezvoltarea-unei-retele-pentru-tineret-in-mediul-rural-si-in-mediul-urban-mic-care-sa-furnizeze-servicii-personalizate-si-de-calitate-tinerilor-cu-preca",
       "source": "fonduri_structurale",
       "deadline": null,
       "matched_keywords": [
-        "cultural"
+        "tineret"
       ]
     },
-    "active_citizens_6fff312a0e84": {
-      "first_seen": "2026-08-07T09:01:56.117483",
-      "title": "Harta apelurilor",
-      "url": "https://activecitizensfund.ro/harta-apelurilor/",
-      "source": "active_citizens",
+    "fonduri_structurale_e0348bfe9075": {
+      "first_seen": "2026-08-08T08:44:41.014380",
+      "title": "PEO: Se solicit\u0103 clarific\u0103ri aferente etapei de evaluare tehnico-financiar\u0103 calitativ\u0103 pe apelul pentru dezvoltarea unei re\u021bele pentru tineret care s\u0103 furnizeze servicii personalizate \u0219i de calitate tinerilor, cu prec\u0103dere din categoria NEETs- relansare 2025Autoritatea de Management pentru Programul Educa\u021bie \u0219i Ocupare (PEO) 2021 - 2027 informeaz\u0103 solicitan\u021bii c\u0103, \u00eencep\u00e2nd de ast\u0103zi, 7 august 2026, vor pr...7 August 2026Cite\u0219te articolul",
+      "url": "https://www.fonduri-structurale.ro/stiri/40963/peo-se-solicita-clarificari-aferente-etapei-de-evaluare-tehnico-financiara-calitativa-pe-apelul-pentru-dezvoltarea-unei-retele-pentru-tineret-care-sa-furnizeze-servicii-personalizate-si-de-calitate-tinerilor-cu-precadere-din-categoria-nee-ts-relansare-202",
+      "source": "fonduri_structurale",
       "deadline": null,
       "matched_keywords": [
-        "ong"
-      ]
-    },
-    "active_citizens_e0d529635755": {
-      "first_seen": "2026-08-07T09:01:56.118999",
-      "title": "Apeluri \u00eenchise",
-      "url": "https://activecitizensfund.ro/apeluri-inchise/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "grant",
-        "civic"
-      ]
-    },
-    "active_citizens_5bba5dbc9577": {
-      "first_seen": "2026-08-07T09:01:56.120426",
-      "title": "Proiecte \u00een evaluare",
-      "url": "https://activecitizensfund.ro/proiecte-in-evaluare/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "granturi",
-        "civic"
-      ]
-    },
-    "active_citizens_283928e7c4e6": {
-      "first_seen": "2026-08-07T09:01:56.126270",
-      "title": "Programul3",
-      "url": "https://activecitizensfund.ro/trillenials/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "tineri",
-        "civic"
-      ]
-    },
-    "ngohub_b87377070127": {
-      "first_seen": "2026-08-07T09:01:56.129118",
-      "title": "Programe UE pentru tineri",
-      "url": "https://www.eurodesk.ro/pag-3",
-      "source": "ngohub",
-      "deadline": null,
-      "matched_keywords": [
-        "tineret",
-        "tineri",
-        "incluziune",
-        "voluntariat"
+        "tineret"
       ]
     }
   },
-  "last_updated": "2026-08-07T09:01:56.872989"
+  "last_updated": "2026-08-08T08:44:41.536889"
 }
