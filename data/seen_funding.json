@@ -112,75 +112,7 @@
         "granturi",
         "capacitare"
       ]
-    },
-    "active_citizens_6fff312a0e84": {
-      "first_seen": "2026-08-10T09:25:04.318689",
-      "title": "Harta apelurilor",
-      "url": "https://activecitizensfund.ro/harta-apelurilor/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "ong"
-      ]
-    },
-    "active_citizens_e0d529635755": {
-      "first_seen": "2026-08-10T09:25:04.320847",
-      "title": "Apeluri \u00eenchise",
-      "url": "https://activecitizensfund.ro/apeluri-inchise/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "grant",
-        "civic"
-      ]
-    },
-    "active_citizens_5bba5dbc9577": {
-      "first_seen": "2026-08-10T09:25:04.322941",
-      "title": "Proiecte \u00een evaluare",
-      "url": "https://activecitizensfund.ro/proiecte-in-evaluare/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "granturi",
-        "civic"
-      ]
-    },
-    "active_citizens_283928e7c4e6": {
-      "first_seen": "2026-08-10T09:25:04.331338",
-      "title": "Programul3",
-      "url": "https://activecitizensfund.ro/trillenials/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "tineri",
-        "civic"
-      ]
-    },
-    "ngohub_b87377070127": {
-      "first_seen": "2026-08-10T09:25:04.335314",
-      "title": "Programe UE pentru tineri",
-      "url": "https://www.eurodesk.ro/pag-3",
-      "source": "ngohub",
-      "deadline": null,
-      "matched_keywords": [
-        "tineret",
-        "tineri",
-        "incluziune",
-        "voluntariat"
-      ]
-    },
-    "ngohub_ab482acccca8": {
-      "first_seen": "2026-08-10T09:25:04.337405",
-      "title": "Programul de stagii Blue Book al Comisiei Europene, acum deschis \u0219i pentru absolven\u021bii de \u00eenv\u0103\u021b\u0103m\u00e2nt profesional (VET)",
-      "url": "https://www.eurodesk.ro/stire/vrs/IDstire/1402",
-      "source": "ngohub",
-      "deadline": null,
-      "matched_keywords": [
-        "tineret",
-        "tineri",
-        "incluziune"
-      ]
     }
   },
-  "last_updated": "2026-08-10T09:25:04.736634"
+  "last_updated": "2026-08-11T08:59:36.182920"
 }
