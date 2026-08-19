@@ -202,7 +202,19 @@
       "matched_keywords": [
         "granturi"
       ]
+    },
+    "ngohub_78dc3cc34124": {
+      "first_seen": "2026-08-19T08:40:14.102708",
+      "title": "Apel pentru candidaturi: Consiliul Consultativ al Tinerilor privind Clima \u0219i Mediul (CCT-CM)",
+      "url": "https://www.eurodesk.ro/stire/vrs/IDstire/1409",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineret",
+        "tineri",
+        "incluziune"
+      ]
     }
   },
-  "last_updated": "2026-08-18T08:39:31.512358"
+  "last_updated": "2026-08-19T08:40:14.401395"
 }
