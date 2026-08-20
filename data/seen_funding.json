@@ -193,16 +193,6 @@
         "granturi"
       ]
     },
-    "fonduri_structurale_55c2f1c575e9": {
-      "first_seen": "2026-08-18T08:39:31.352325",
-      "title": "Webinar: Peste 53.8 milioane EUR disponibile prin Granturi SEE \u0219i Norvegienefonduri-structurale.ro organizeaz\u0103 joi, 20 august 2026, urm\u0103torul webinar exclusiv pentru comunitatea de abona\u021bi premium ai platformei. Evenimentul va...18 August 2026Cite\u0219te articolul",
-      "url": "https://www.fonduri-structurale.ro/stiri/41041/webinar-peste-53-8-milioane-eur-disponibile-prin-granturi-see-si-norvegiene",
-      "source": "fonduri_structurale",
-      "deadline": null,
-      "matched_keywords": [
-        "granturi"
-      ]
-    },
     "ngohub_78dc3cc34124": {
       "first_seen": "2026-08-19T08:40:14.102708",
       "title": "Apel pentru candidaturi: Consiliul Consultativ al Tinerilor privind Clima \u0219i Mediul (CCT-CM)",
@@ -214,7 +204,17 @@
         "tineri",
         "incluziune"
       ]
+    },
+    "fonduri_structurale_9aeb4445ac4e": {
+      "first_seen": "2026-08-20T08:41:11.721846",
+      "title": "Granturi pentru consolidarea particip\u0103rii democratice la procesul de aderare a Republicii Moldova la UEAsocia\u021bia Promo-LEX a lansat luni, 17 august 2026, concursul de selectare a beneficiarilor primei runde a Programului de Granturi Mici \u201eSCOPE\u201d pentru ...19 August 2026Cite\u0219te articolul",
+      "url": "https://www.fonduri-structurale.ro/stiri/41055/granturi-pentru-consolidarea-participarii-democratice-la-procesul-de-aderare-a-republicii-moldova-la-ue",
+      "source": "fonduri_structurale",
+      "deadline": null,
+      "matched_keywords": [
+        "granturi"
+      ]
     }
   },
-  "last_updated": "2026-08-19T08:40:14.401395"
+  "last_updated": "2026-08-20T08:41:11.823709"
 }
