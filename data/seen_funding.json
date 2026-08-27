@@ -76,17 +76,6 @@
         "grant"
       ]
     },
-    "fdsc_97123b93d9e1": {
-      "first_seen": "2026-05-19T11:22:30.947578",
-      "title": "Dreptul de asociere nu poate fi restr\u00e2ns sub pretextul transparen\u021bei.",
-      "url": "https://www.fdsc.ro/dreptul-de-asociere-nu-poate-fi-restrans-sub-pretextul-transparentei/",
-      "source": "fdsc",
-      "deadline": null,
-      "matched_keywords": [
-        "capacitare",
-        "civic"
-      ]
-    },
     "fdsc_e4de8e983e5f": {
       "first_seen": "2026-07-09T10:57:15.018808",
       "title": "Programul EEA Civil Society Fund \u00een Rom\u00e2nia lanseaz\u0103 7 apeluri de proiecte",
@@ -113,108 +102,27 @@
         "capacitare"
       ]
     },
-    "active_citizens_6fff312a0e84": {
-      "first_seen": "2026-08-12T09:13:58.618469",
-      "title": "Harta apelurilor",
-      "url": "https://activecitizensfund.ro/harta-apelurilor/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "ong"
-      ]
-    },
-    "active_citizens_e0d529635755": {
-      "first_seen": "2026-08-12T09:13:58.620521",
-      "title": "Apeluri \u00eenchise",
-      "url": "https://activecitizensfund.ro/apeluri-inchise/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "grant",
-        "civic"
-      ]
-    },
-    "active_citizens_5bba5dbc9577": {
-      "first_seen": "2026-08-12T09:13:58.622498",
-      "title": "Proiecte \u00een evaluare",
-      "url": "https://activecitizensfund.ro/proiecte-in-evaluare/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "granturi",
-        "civic"
-      ]
-    },
-    "active_citizens_283928e7c4e6": {
-      "first_seen": "2026-08-12T09:13:58.630576",
-      "title": "Programul3",
-      "url": "https://activecitizensfund.ro/trillenials/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "tineri",
-        "civic"
-      ]
-    },
-    "ngohub_b87377070127": {
-      "first_seen": "2026-08-12T09:13:58.634420",
-      "title": "Programe UE pentru tineri",
-      "url": "https://www.eurodesk.ro/pag-3",
-      "source": "ngohub",
-      "deadline": null,
-      "matched_keywords": [
-        "tineret",
-        "tineri",
-        "incluziune",
-        "voluntariat"
-      ]
-    },
-    "ngohub_78dc3cc34124": {
-      "first_seen": "2026-08-19T08:40:14.102708",
-      "title": "Apel pentru candidaturi: Consiliul Consultativ al Tinerilor privind Clima \u0219i Mediul (CCT-CM)",
-      "url": "https://www.eurodesk.ro/stire/vrs/IDstire/1409",
-      "source": "ngohub",
-      "deadline": null,
-      "matched_keywords": [
-        "tineret",
-        "tineri",
-        "incluziune"
-      ]
-    },
-    "fonduri_structurale_769214fd164d": {
-      "first_seen": "2026-08-26T08:47:16.312306",
-      "title": "Modific\u0103ri pe 2 apeluri din cadrul PIDSAutoritatea de Management pentru Programul Incluziune \u0219i Demnitate Social\u0103 a publicat ast\u0103zi, 25 august 2026, modific\u0103ri la urm\u0103toarele ghiduri:Ghidul...25 August 2026Cite\u0219te articolul",
-      "url": "https://www.fonduri-structurale.ro/stiri/41096/modificari-pe-2-apeluri-din-cadrul-pids",
+    "fonduri_structurale_0ac6c5b8c7a3": {
+      "first_seen": "2026-08-27T18:57:16.665120",
+      "title": "PIDS: O nou\u0103 prelungire pe apelul pentru asigurarea de locuin\u021be sociale pentru persoanele vulnerabile - ITI \u021aara F\u0103g\u0103ra\u0219uluiAutoritatea de Management pentru Programul Incluziune \u0219i Demnitate Social\u0103 a publicat ast\u0103zi, 27 august 2026, un corrigendum la Ghidul Solicitantului ...27 August 2026Cite\u0219te articolul",
+      "url": "https://www.fonduri-structurale.ro/stiri/41109/pids-o-noua-prelungire-pe-apelul-pentru-asigurarea-de-locuinte-sociale-pentru-persoanele-vulnerabile-iti-tara-fagarasului",
       "source": "fonduri_structurale",
       "deadline": null,
       "matched_keywords": [
         "incluziune"
       ]
     },
-    "fonduri_structurale_3357cb927615": {
-      "first_seen": "2026-08-26T08:47:16.312873",
-      "title": "Programul de Granturi Mici \u201eSCOPE\u201d pentru consolidarea particip\u0103rii democratice la procesul de aderare a Republicii Moldova la Uniunea European\u0103Programul de Granturi Mici \u201eSCOPE\u201d este parte din Proiectul \u201eSCOPE: Consolidarea capacit\u0103\u021bilor organiza\u021biilor societ\u0103\u021bii civile pentru participare \u0219i ...Granturi pentru Republica Moldova17 Aug. 2026 - 30 Sept. 2026Finan\u021bare activ\u0103Vezi mai multe detalii",
-      "url": "https://www.fonduri-structurale.ro/finantari/2486/programul-de-granturi-mici-scope-pentru-consolidarea-participarii-democratice-la-procesul-de-aderare-a-republicii-moldova-la-uniunea-europeana",
-      "source": "fonduri_structurale",
-      "deadline": null,
+    "fdsc_36fe0963a49c": {
+      "first_seen": "2026-08-27T18:57:16.673782",
+      "title": "Apel Selec\u021bie \u2013 Programul3 \u2013 edi\u021bia 2026/2027",
+      "url": "https://www.fdsc.ro/apel-selectie-programul3-editia-2026-2027/",
+      "source": "fdsc",
+      "deadline": "10 septembrie 2026",
       "matched_keywords": [
-        "granturi"
-      ]
-    },
-    "ngohub_284c9d15cbce": {
-      "first_seen": "2026-08-26T08:47:16.351684",
-      "title": "Apel pentru candidaturi: Programul3 #Trillenials",
-      "url": "https://www.eurodesk.ro/stire/vrs/IDstire/1412",
-      "source": "ngohub",
-      "deadline": null,
-      "matched_keywords": [
-        "tineret",
-        "tineri",
         "ong",
-        "comunitate",
-        "incluziune"
+        "capacitare"
       ]
     }
   },
-  "last_updated": "2026-08-26T08:47:17.092045"
+  "last_updated": "2026-08-27T18:57:16.994126"
 }
