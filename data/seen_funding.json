@@ -102,16 +102,6 @@
         "capacitare"
       ]
     },
-    "fonduri_structurale_0ac6c5b8c7a3": {
-      "first_seen": "2026-08-27T18:57:16.665120",
-      "title": "PIDS: O nou\u0103 prelungire pe apelul pentru asigurarea de locuin\u021be sociale pentru persoanele vulnerabile - ITI \u021aara F\u0103g\u0103ra\u0219uluiAutoritatea de Management pentru Programul Incluziune \u0219i Demnitate Social\u0103 a publicat ast\u0103zi, 27 august 2026, un corrigendum la Ghidul Solicitantului ...27 August 2026Cite\u0219te articolul",
-      "url": "https://www.fonduri-structurale.ro/stiri/41109/pids-o-noua-prelungire-pe-apelul-pentru-asigurarea-de-locuinte-sociale-pentru-persoanele-vulnerabile-iti-tara-fagarasului",
-      "source": "fonduri_structurale",
-      "deadline": null,
-      "matched_keywords": [
-        "incluziune"
-      ]
-    },
     "fdsc_36fe0963a49c": {
       "first_seen": "2026-08-27T18:57:16.673782",
       "title": "Apel Selec\u021bie \u2013 Programul3 \u2013 edi\u021bia 2026/2027",
@@ -122,7 +112,109 @@
         "ong",
         "capacitare"
       ]
+    },
+    "fonduri_structurale_739e4c7437c3": {
+      "first_seen": "2026-08-28T19:59:16.778775",
+      "title": "PCIDIF: Nota de clarificare privind rata de cofinan\u021bare a organiza\u021biilor de cercetare de drept privat \u00een ghidul privind crearea de grupuri de excelen\u021b\u0103Autoritatea de Management pentru Programul Cre\u0219tere Inteligent\u0103, Digitalizare \u0219i Instrumente Financiare 2021-2027 a publicat ast\u0103zi, 28 august 2026, N...28 August 2026Cite\u0219te articolul",
+      "url": "https://www.fonduri-structurale.ro/stiri/41134/pcidif-nota-de-clarificare-privind-rata-de-cofinantare-a-organizatiilor-de-cercetare-de-drept-privat-in-ghidul-privind-crearea-de-grupuri-de-excelenta",
+      "source": "fonduri_structurale",
+      "deadline": null,
+      "matched_keywords": [
+        "digitalizare"
+      ]
+    },
+    "fonduri_structurale_a716b4af0bf2": {
+      "first_seen": "2026-08-28T19:59:16.779036",
+      "title": "PR Bucure\u0219ti-Ilfov: Eveniment de informare privind apelul pentru clustere de inovareAutoritatea de Management pentru Programul Regional Bucure\u0219ti-Ilfov 2021\u20132027 organizeaz\u0103 un eveniment dedicat clusterelor de inovare, \u00een data de 9 se...28 August 2026Cite\u0219te articolul",
+      "url": "https://www.fonduri-structurale.ro/stiri/41125/pr-bucuresti-ilfov-eveniment-de-informare-privind-apelul-pentru-clustere-de-inovare",
+      "source": "fonduri_structurale",
+      "deadline": null,
+      "matched_keywords": [
+        "inovare"
+      ]
+    },
+    "active_citizens_6fff312a0e84": {
+      "first_seen": "2026-08-28T19:59:16.798452",
+      "title": "Harta apelurilor",
+      "url": "https://activecitizensfund.ro/harta-apelurilor/",
+      "source": "active_citizens",
+      "deadline": null,
+      "matched_keywords": [
+        "ong"
+      ]
+    },
+    "active_citizens_e0d529635755": {
+      "first_seen": "2026-08-28T19:59:16.800660",
+      "title": "Apeluri \u00eenchise",
+      "url": "https://activecitizensfund.ro/apeluri-inchise/",
+      "source": "active_citizens",
+      "deadline": null,
+      "matched_keywords": [
+        "grant",
+        "civic"
+      ]
+    },
+    "active_citizens_5bba5dbc9577": {
+      "first_seen": "2026-08-28T19:59:16.802836",
+      "title": "Proiecte \u00een evaluare",
+      "url": "https://activecitizensfund.ro/proiecte-in-evaluare/",
+      "source": "active_citizens",
+      "deadline": null,
+      "matched_keywords": [
+        "granturi",
+        "civic"
+      ]
+    },
+    "active_citizens_283928e7c4e6": {
+      "first_seen": "2026-08-28T19:59:16.811428",
+      "title": "Programul3",
+      "url": "https://activecitizensfund.ro/trillenials/",
+      "source": "active_citizens",
+      "deadline": null,
+      "matched_keywords": [
+        "tineri",
+        "civic"
+      ]
+    },
+    "ngohub_b87377070127": {
+      "first_seen": "2026-08-28T19:59:16.815530",
+      "title": "Programe UE pentru tineri",
+      "url": "https://www.eurodesk.ro/pag-3",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineret",
+        "tineri",
+        "incluziune",
+        "voluntariat"
+      ]
+    },
+    "ngohub_284c9d15cbce": {
+      "first_seen": "2026-08-28T19:59:16.817658",
+      "title": "Apel pentru candidaturi: Programul3 #Trillenials",
+      "url": "https://www.eurodesk.ro/stire/vrs/IDstire/1412",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineret",
+        "tineri",
+        "ong",
+        "comunitate",
+        "incluziune"
+      ]
+    },
+    "ngohub_78dc3cc34124": {
+      "first_seen": "2026-08-28T19:59:16.819810",
+      "title": "Apel pentru candidaturi: Consiliul Consultativ al Tinerilor privind Clima \u0219i Mediul (CCT-CM)",
+      "url": "https://www.eurodesk.ro/stire/vrs/IDstire/1409",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineret",
+        "tineri",
+        "incluziune"
+      ]
     }
   },
-  "last_updated": "2026-08-27T18:57:16.994126"
+  "last_updated": "2026-08-28T19:59:17.811222"
 }
