@@ -113,16 +113,6 @@
         "capacitare"
       ]
     },
-    "fonduri_structurale_739e4c7437c3": {
-      "first_seen": "2026-08-28T19:59:16.778775",
-      "title": "PCIDIF: Nota de clarificare privind rata de cofinan\u021bare a organiza\u021biilor de cercetare de drept privat \u00een ghidul privind crearea de grupuri de excelen\u021b\u0103Autoritatea de Management pentru Programul Cre\u0219tere Inteligent\u0103, Digitalizare \u0219i Instrumente Financiare 2021-2027 a publicat ast\u0103zi, 28 august 2026, N...28 August 2026Cite\u0219te articolul",
-      "url": "https://www.fonduri-structurale.ro/stiri/41134/pcidif-nota-de-clarificare-privind-rata-de-cofinantare-a-organizatiilor-de-cercetare-de-drept-privat-in-ghidul-privind-crearea-de-grupuri-de-excelenta",
-      "source": "fonduri_structurale",
-      "deadline": null,
-      "matched_keywords": [
-        "digitalizare"
-      ]
-    },
     "active_citizens_6fff312a0e84": {
       "first_seen": "2026-08-28T19:59:16.798452",
       "title": "Harta apelurilor",
@@ -204,7 +194,27 @@
         "tineri",
         "incluziune"
       ]
+    },
+    "fonduri_structurale_1ee4a309db04": {
+      "first_seen": "2026-08-31T15:57:45.467257",
+      "title": "PIDS: Lista intermediar\u0103 nr. 1 a proiectelor aprobate ca urmare a finaliz\u0103rii procesului de evaluare tehnico-financiar\u0103 calitativ\u0103 pe apelul pentru servicii comunitare destinate copiilor \u0219i familiilor \u00een vederea prevenirii separ\u0103rii - ITI Mo\u021bii, \u021aara de Piatr\u0103Autoritatea de Management pentru Programul Incluziune \u0219i Demnitate Social\u0103 a publicat ast\u0103zi, 31 august 2026, lista intermediar\u0103 nr. 1 a proiectelor a...31 August 2026Cite\u0219te articolul",
+      "url": "https://www.fonduri-structurale.ro/stiri/41142/pids-lista-intermediara-nr-1-a-proiectelor-aprobate-ca-urmare-a-finalizarii-procesului-de-evaluare-tehnico-financiara-calitativa-pe-apelul-pentru-servicii-comunitare-destinate-copiilor-si-familiilor-in-vederea-prevenirii-separarii-iti-motii-tara-de-piatra",
+      "source": "fonduri_structurale",
+      "deadline": null,
+      "matched_keywords": [
+        "incluziune"
+      ]
+    },
+    "fonduri_structurale_e64a858dbc26": {
+      "first_seen": "2026-08-31T15:57:45.467754",
+      "title": "PIDS: S-a lansat apelul pentru implementarea pactului de integritateAutoritatea de Management pentru Programul Incluziune \u0219i Demnitate Social\u0103 a publicat s\u0103pt\u0103m\u00e2na trecut\u0103 Ghidul Solicitantului \u201eImplementarea pactului ...31 August 2026Cite\u0219te articolul",
+      "url": "https://www.fonduri-structurale.ro/stiri/41139/pids-s-a-lansat-apelul-pentru-implementarea-pactului-de-integritate",
+      "source": "fonduri_structurale",
+      "deadline": null,
+      "matched_keywords": [
+        "incluziune"
+      ]
     }
   },
-  "last_updated": "2026-08-30T13:39:49.375632"
+  "last_updated": "2026-08-31T15:57:45.629142"
 }
