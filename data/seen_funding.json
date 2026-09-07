@@ -156,10 +156,21 @@
         "civic"
       ]
     },
-    "ngohub_b87377070127": {
-      "first_seen": "2026-08-28T19:59:16.815530",
-      "title": "Programe UE pentru tineri",
-      "url": "https://www.eurodesk.ro/pag-3",
+    "fonduri_structurale_e5ab9f1f3354": {
+      "first_seen": "2026-09-07T14:04:46.539653",
+      "title": "PIDS: Se solicit\u0103 clarific\u0103ri aferente etapei de evaluare tehnico-financiar\u0103 preliminar\u0103 pe apelul pentru centre multifunc\u021bionale pentru copii - ITI Delta Dun\u0103riiAutoritatea de Management pentru Programul Incluziune \u0219i Demnitate Social\u0103 2021-2027 informeaz\u0103 solicitan\u021bii c\u0103 \u00eencep\u00e2nd de ast\u0103zi, 7 septembrie 2026,...7 Septembrie 2026Cite\u0219te articolul",
+      "url": "https://www.fonduri-structurale.ro/stiri/41202/pids-se-solicita-clarificari-aferente-etapei-de-evaluare-tehnico-financiara-preliminara-pe-apelul-pentru-centre-multifunctionale-pentru-copii-iti-delta-dunarii",
+      "source": "fonduri_structurale",
+      "deadline": null,
+      "matched_keywords": [
+        "copii",
+        "incluziune"
+      ]
+    },
+    "ngohub_6d59281ba8ca": {
+      "first_seen": "2026-09-07T14:04:46.576830",
+      "title": "Corpul European de Solidaritate",
+      "url": "https://www.eurodesk.ro/programe-ue-pentru-tineri/corpul-european-de-solidaritate-1/",
       "source": "ngohub",
       "deadline": null,
       "matched_keywords": [
@@ -169,32 +180,43 @@
         "voluntariat"
       ]
     },
-    "ngohub_284c9d15cbce": {
-      "first_seen": "2026-08-28T19:59:16.817658",
-      "title": "Apel pentru candidaturi: Programul3 #Trillenials",
-      "url": "https://www.eurodesk.ro/stire/vrs/IDstire/1412",
+    "ngohub_7623d29f8c7b": {
+      "first_seen": "2026-09-07T14:04:46.579156",
+      "title": "Apel pentru candidaturi: Programul3 #Trillenials26 august 2026 \u00b7 \u0218tiri Eurodesk",
+      "url": "https://www.eurodesk.ro/apel-pentru-candidaturi-programul3-trillenials/",
       "source": "ngohub",
       "deadline": null,
       "matched_keywords": [
-        "tineret",
         "tineri",
         "ong",
-        "comunitate",
-        "incluziune"
+        "comunitate"
       ]
     },
-    "ngohub_78dc3cc34124": {
-      "first_seen": "2026-08-28T19:59:16.819810",
-      "title": "Apel pentru candidaturi: Consiliul Consultativ al Tinerilor privind Clima \u0219i Mediul (CCT-CM)",
-      "url": "https://www.eurodesk.ro/stire/vrs/IDstire/1409",
+    "ngohub_f84387b4fd60": {
+      "first_seen": "2026-09-07T14:04:46.581360",
+      "title": "StudiuDescoper\u0103 burse \u0219i programe interna\u021bionale de formare.Afl\u0103 mai multe",
+      "url": "https://www.eurodesk.ro/oportunitati/?cat=Learning",
       "source": "ngohub",
       "deadline": null,
       "matched_keywords": [
         "tineret",
         "tineri",
-        "incluziune"
+        "inovare",
+        "tehnologie",
+        "voluntariat"
+      ]
+    },
+    "ngohub_cf9593de800b": {
+      "first_seen": "2026-09-07T14:04:46.583637",
+      "title": "7SepProgramul de stagii IAESTEUltima zi!",
+      "url": "https://www.eurodesk.ro/oportunitati/21032/programul-de-stagii-iaeste/",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineret",
+        "tineri"
       ]
     }
   },
-  "last_updated": "2026-09-06T12:01:12.216377"
+  "last_updated": "2026-09-07T14:04:47.584446"
 }
