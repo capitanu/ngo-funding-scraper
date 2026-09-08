@@ -156,17 +156,6 @@
         "civic"
       ]
     },
-    "fonduri_structurale_e5ab9f1f3354": {
-      "first_seen": "2026-09-07T14:04:46.539653",
-      "title": "PIDS: Se solicit\u0103 clarific\u0103ri aferente etapei de evaluare tehnico-financiar\u0103 preliminar\u0103 pe apelul pentru centre multifunc\u021bionale pentru copii - ITI Delta Dun\u0103riiAutoritatea de Management pentru Programul Incluziune \u0219i Demnitate Social\u0103 2021-2027 informeaz\u0103 solicitan\u021bii c\u0103 \u00eencep\u00e2nd de ast\u0103zi, 7 septembrie 2026,...7 Septembrie 2026Cite\u0219te articolul",
-      "url": "https://www.fonduri-structurale.ro/stiri/41202/pids-se-solicita-clarificari-aferente-etapei-de-evaluare-tehnico-financiara-preliminara-pe-apelul-pentru-centre-multifunctionale-pentru-copii-iti-delta-dunarii",
-      "source": "fonduri_structurale",
-      "deadline": null,
-      "matched_keywords": [
-        "copii",
-        "incluziune"
-      ]
-    },
     "ngohub_6d59281ba8ca": {
       "first_seen": "2026-09-07T14:04:46.576830",
       "title": "Corpul European de Solidaritate",
@@ -216,7 +205,28 @@
         "tineret",
         "tineri"
       ]
+    },
+    "fonduri_structurale_56856b90f87d": {
+      "first_seen": "2026-09-08T12:42:06.707617",
+      "title": "45.000 de elevi \u0219i pre\u0219colari vor avea condi\u021bii mai bune de \u00eenv\u0103\u021bare prin Programul Regional VestAgen\u021bia pentru Dezvoltare Regional\u0103 Vest a anun\u021bat vineri, 4 septembrie 2026, faptul c\u0103 peste 130 de \u0219coli, gr\u0103dini\u021be \u0219i licee din Regiunea Vest vor f...7 Septembrie 2026Cite\u0219te articolul",
+      "url": "https://www.fonduri-structurale.ro/stiri/41207/45-000-de-elevi-si-prescolari-vor-avea-conditii-mai-bune-de-invatare-prin-programul-regional-vest",
+      "source": "fonduri_structurale",
+      "deadline": null,
+      "matched_keywords": [
+        "elevi"
+      ]
+    },
+    "ngohub_45b5fd62cb23": {
+      "first_seen": "2026-09-08T12:42:06.757553",
+      "title": "8SepProgramul de stagii UNICEFUltima zi!",
+      "url": "https://www.eurodesk.ro/oportunitati/21033/programul-de-stagii-unicef/",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineret",
+        "tineri"
+      ]
     }
   },
-  "last_updated": "2026-09-07T14:04:47.584446"
+  "last_updated": "2026-09-08T12:42:07.159704"
 }
