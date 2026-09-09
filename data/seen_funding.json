@@ -169,18 +169,6 @@
         "voluntariat"
       ]
     },
-    "ngohub_7623d29f8c7b": {
-      "first_seen": "2026-09-07T14:04:46.579156",
-      "title": "Apel pentru candidaturi: Programul3 #Trillenials26 august 2026 \u00b7 \u0218tiri Eurodesk",
-      "url": "https://www.eurodesk.ro/apel-pentru-candidaturi-programul3-trillenials/",
-      "source": "ngohub",
-      "deadline": null,
-      "matched_keywords": [
-        "tineri",
-        "ong",
-        "comunitate"
-      ]
-    },
     "ngohub_f84387b4fd60": {
       "first_seen": "2026-09-07T14:04:46.581360",
       "title": "StudiuDescoper\u0103 burse \u0219i programe interna\u021bionale de formare.Afl\u0103 mai multe",
@@ -206,27 +194,27 @@
         "tineri"
       ]
     },
-    "fonduri_structurale_56856b90f87d": {
-      "first_seen": "2026-09-08T12:42:06.707617",
-      "title": "45.000 de elevi \u0219i pre\u0219colari vor avea condi\u021bii mai bune de \u00eenv\u0103\u021bare prin Programul Regional VestAgen\u021bia pentru Dezvoltare Regional\u0103 Vest a anun\u021bat vineri, 4 septembrie 2026, faptul c\u0103 peste 130 de \u0219coli, gr\u0103dini\u021be \u0219i licee din Regiunea Vest vor f...7 Septembrie 2026Cite\u0219te articolul",
-      "url": "https://www.fonduri-structurale.ro/stiri/41207/45-000-de-elevi-si-prescolari-vor-avea-conditii-mai-bune-de-invatare-prin-programul-regional-vest",
+    "fonduri_structurale_94ca9f5262de": {
+      "first_seen": "2026-09-09T12:48:38.744097",
+      "title": "PIDS: Se transmit solicit\u0103ri de clarific\u0103ri aferente etapei de evaluare tehnico-financiar\u0103 preliminar\u0103 pe apelurile privind dezvoltarea serviciilor de sprijin \u00een comunitate, prin echipe de servicii mobileAutoritatea de Management Pentru Programul Incluziune \u0219i Demnitate Social\u0103 (PIDS) 2021-2027 informeaz\u0103 solicitan\u021bii c\u0103 \u00eencep\u00e2nd cu data de ast\u0103zi, 9 s...9 Septembrie 2026Cite\u0219te articolul",
+      "url": "https://www.fonduri-structurale.ro/stiri/41222/pids-se-transmit-solicitari-de-clarificari-aferente-etapei-de-evaluare-tehnico-financiara-preliminara-pe-apelurile-privind-dezvoltarea-serviciilor-de-sprijin-in-comunitate-prin-echipe-de-servicii-mobile",
       "source": "fonduri_structurale",
       "deadline": null,
       "matched_keywords": [
-        "elevi"
+        "comunitate",
+        "incluziune"
       ]
     },
-    "ngohub_45b5fd62cb23": {
-      "first_seen": "2026-09-08T12:42:06.757553",
-      "title": "8SepProgramul de stagii UNICEFUltima zi!",
-      "url": "https://www.eurodesk.ro/oportunitati/21033/programul-de-stagii-unicef/",
-      "source": "ngohub",
+    "fonduri_structurale_b31aa682574c": {
+      "first_seen": "2026-09-09T12:48:38.744422",
+      "title": "EaSI: Noi modific\u0103ri pe apelul pentru consolidarea sistemelor na\u021bionale de guvernan\u021b\u0103 ale Garan\u021biei Europene pentru Copii \u0219i sprijinirea accesului pe pia\u021ba muncii pentru tinerii romi NEETAgen\u021bia Fondului Social European (ESFA) din Lituania, \u00een calitate de entitate desemnat\u0103 de Comisia European\u0103 pentru implementarea ini\u021biativei FSE Inov...9 Septembrie 2026Cite\u0219te articolul",
+      "url": "https://www.fonduri-structurale.ro/stiri/41221/ea-si-noi-modificari-pe-apelul-pentru-consolidarea-sistemelor-nationale-de-guvernanta-ale-garantiei-europene-pentru-copii-si-sprijinirea-accesului-pe-piata-muncii-pentru-tinerii-romi-neet",
+      "source": "fonduri_structurale",
       "deadline": null,
       "matched_keywords": [
-        "tineret",
-        "tineri"
+        "copii"
       ]
     }
   },
-  "last_updated": "2026-09-08T12:42:07.159704"
+  "last_updated": "2026-09-09T12:48:39.223044"
 }
