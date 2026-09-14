@@ -112,77 +112,7 @@
         "ong",
         "capacitare"
       ]
-    },
-    "active_citizens_6fff312a0e84": {
-      "first_seen": "2026-08-28T19:59:16.798452",
-      "title": "Harta apelurilor",
-      "url": "https://activecitizensfund.ro/harta-apelurilor/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "ong"
-      ]
-    },
-    "active_citizens_e0d529635755": {
-      "first_seen": "2026-08-28T19:59:16.800660",
-      "title": "Apeluri \u00eenchise",
-      "url": "https://activecitizensfund.ro/apeluri-inchise/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "grant",
-        "civic"
-      ]
-    },
-    "active_citizens_5bba5dbc9577": {
-      "first_seen": "2026-08-28T19:59:16.802836",
-      "title": "Proiecte \u00een evaluare",
-      "url": "https://activecitizensfund.ro/proiecte-in-evaluare/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "granturi",
-        "civic"
-      ]
-    },
-    "active_citizens_283928e7c4e6": {
-      "first_seen": "2026-08-28T19:59:16.811428",
-      "title": "Programul3",
-      "url": "https://activecitizensfund.ro/trillenials/",
-      "source": "active_citizens",
-      "deadline": null,
-      "matched_keywords": [
-        "tineri",
-        "civic"
-      ]
-    },
-    "ngohub_6d59281ba8ca": {
-      "first_seen": "2026-09-07T14:04:46.576830",
-      "title": "Corpul European de Solidaritate",
-      "url": "https://www.eurodesk.ro/programe-ue-pentru-tineri/corpul-european-de-solidaritate-1/",
-      "source": "ngohub",
-      "deadline": null,
-      "matched_keywords": [
-        "tineret",
-        "tineri",
-        "incluziune",
-        "voluntariat"
-      ]
-    },
-    "ngohub_f84387b4fd60": {
-      "first_seen": "2026-09-07T14:04:46.581360",
-      "title": "StudiuDescoper\u0103 burse \u0219i programe interna\u021bionale de formare.Afl\u0103 mai multe",
-      "url": "https://www.eurodesk.ro/oportunitati/?cat=Learning",
-      "source": "ngohub",
-      "deadline": null,
-      "matched_keywords": [
-        "tineret",
-        "tineri",
-        "inovare",
-        "tehnologie",
-        "voluntariat"
-      ]
     }
   },
-  "last_updated": "2026-09-13T13:11:19.592339"
+  "last_updated": "2026-09-14T14:50:02.533226"
 }
