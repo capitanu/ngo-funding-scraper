@@ -182,7 +182,42 @@
         "tehnologie",
         "voluntariat"
       ]
+    },
+    "fdsc_18c9e0955676": {
+      "first_seen": "2026-09-16T13:14:54.107282",
+      "title": "Programul Acceleratorul Schimb\u0103rii Sociale \u2013 Apel selec\u021bie organiza\u021bii la \u00eenceput de drum",
+      "url": "https://www.fdsc.ro/programul-acceleratorul-schimbarii-sociale-apel-selectie-organizatii-la-inceput-de-drum/",
+      "source": "fdsc",
+      "deadline": "05 octombrie 2026",
+      "matched_keywords": [
+        "ong",
+        "grant",
+        "capacitare"
+      ]
+    },
+    "ngohub_45b5fd62cb23": {
+      "first_seen": "2026-09-16T13:14:54.143241",
+      "title": "16SepProgramul de stagii UNICEFUltima zi!",
+      "url": "https://www.eurodesk.ro/oportunitati/21033/programul-de-stagii-unicef/",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineret",
+        "tineri"
+      ]
+    },
+    "ngohub_e1c560821917": {
+      "first_seen": "2026-09-16T13:14:54.145551",
+      "title": "20SepConcurs pentru startup-uri pentru tineri4 zile r\u0103mase",
+      "url": "https://www.eurodesk.ro/oportunitati/20729/concurs-pentru-startup-uri-pentru-tineri/",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineret",
+        "tineri",
+        "inovare"
+      ]
     }
   },
-  "last_updated": "2026-09-15T13:16:52.927890"
+  "last_updated": "2026-09-16T13:14:54.313516"
 }
