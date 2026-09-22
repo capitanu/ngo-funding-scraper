@@ -217,16 +217,27 @@
         "granturi"
       ]
     },
-    "fonduri_structurale_77542f33887a": {
-      "first_seen": "2026-09-21T14:56:23.047897",
-      "title": "PEO: Lista final\u0103 a proiectelor respinse dup\u0103 contesta\u021bii \u00een evaluarea preliminar\u0103 pe apelul pentru dezvoltarea unei re\u021bele pentru tineret \u00een mediul rural \u0219i \u00een mediul urban micAutoritatea de Management pentru Programul Educa\u021bie \u0219i Ocupare (PEO) 2021 \u2013 2027 a publicat ast\u0103zi, 21 septembrie 2026, lista final\u0103 a proiectelor res...21 Septembrie 2026Cite\u0219te articolul",
-      "url": "https://www.fonduri-structurale.ro/stiri/41312/peo-lista-finala-a-proiectelor-respinse-dupa-contestatii-in-evaluarea-preliminara-pe-apelul-pentru-dezvoltarea-unei-retele-pentru-tineret-in-mediul-rural-si-in-mediul-urban-mic",
+    "fonduri_structurale_4b7d7a9cf8f4": {
+      "first_seen": "2026-09-22T13:12:42.609265",
+      "title": "Apel pentru proiecte de cercetare \u0219i inovare \u00een tehnologii industriale revolu\u021bionare",
+      "url": "https://www.fonduri-structurale.ro/finantari/2305/apel-pentru-proiecte-de-cercetare-si-inovare-in-tehnologii-industriale-revolutionare",
       "source": "fonduri_structurale",
       "deadline": null,
       "matched_keywords": [
-        "tineret"
+        "inovare"
+      ]
+    },
+    "ngohub_419388602be5": {
+      "first_seen": "2026-09-22T13:12:42.644346",
+      "title": "28SepBursele Billion Acts of Peace6 zile r\u0103mase",
+      "url": "https://www.eurodesk.ro/oportunitati/23716/bursele-billion-acts-of-peace/",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineri",
+        "comunitate"
       ]
     }
   },
-  "last_updated": "2026-09-21T14:56:23.343650"
+  "last_updated": "2026-09-22T13:12:43.115487"
 }
