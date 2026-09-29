@@ -195,17 +195,6 @@
         "capacitare"
       ]
     },
-    "ngohub_419388602be5": {
-      "first_seen": "2026-09-22T13:12:42.644346",
-      "title": "28SepBursele Billion Acts of Peace6 zile r\u0103mase",
-      "url": "https://www.eurodesk.ro/oportunitati/23716/bursele-billion-acts-of-peace/",
-      "source": "ngohub",
-      "deadline": null,
-      "matched_keywords": [
-        "tineri",
-        "comunitate"
-      ]
-    },
     "fonduri_structurale_79c42902b1fb": {
       "first_seen": "2026-09-28T16:34:45.593196",
       "title": "Apelul 2 - Finan\u021bare nerambursabil\u0103 pentru sectorul cultural independent",
@@ -215,7 +204,19 @@
       "matched_keywords": [
         "cultural"
       ]
+    },
+    "ngohub_416685e46557": {
+      "first_seen": "2026-09-29T14:42:17.193360",
+      "title": "30SepProgramul Youth Professionals al B\u0103ncii Mondiale1 zi r\u0103mas\u0103",
+      "url": "https://www.eurodesk.ro/oportunitati/19724/programul-youth-professionals-al-bancii-mondiale/",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineret",
+        "tineri",
+        "youth"
+      ]
     }
   },
-  "last_updated": "2026-09-28T16:34:45.900086"
+  "last_updated": "2026-09-29T14:42:17.768506"
 }
