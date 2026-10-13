@@ -195,27 +195,6 @@
         "capacitare"
       ]
     },
-    "ngohub_a332ff422017": {
-      "first_seen": "2026-10-11T14:45:07.932379",
-      "title": "12OctJuvenes Translatores - concurs de traducere pentru \u0219coli1 zi r\u0103mas\u0103",
-      "url": "https://www.eurodesk.ro/oportunitati/19693/juvenes-translatores-concurs-de-traducere-pentru-scoli/",
-      "source": "ngohub",
-      "deadline": null,
-      "matched_keywords": [
-        "tineri",
-        "elevi"
-      ]
-    },
-    "fonduri_structurale_3b1b0ea988cd": {
-      "first_seen": "2026-10-12T17:31:18.587001",
-      "title": "Au fost prelungite dou\u0103 apeluri de proiecte din cadrul PIDSAutoritatea de Management pentru Programul Incluziune \u0219i Demnitate Social\u0103 din cadrul Ministerului Investi\u021biilor \u0219i Proiectelor Europene a publicat as...12 Octombrie 2026Cite\u0219te articolul",
-      "url": "https://www.fonduri-structurale.ro/stiri/41494/au-fost-prelungite-doua-apeluri-de-proiecte-din-cadrul-pids",
-      "source": "fonduri_structurale",
-      "deadline": null,
-      "matched_keywords": [
-        "incluziune"
-      ]
-    },
     "ngohub_45b5fd62cb23": {
       "first_seen": "2026-10-12T17:31:18.626095",
       "title": "14OctProgramul de stagii UNICEF2 zile r\u0103mase",
@@ -226,7 +205,18 @@
         "tineret",
         "tineri"
       ]
+    },
+    "ngohub_0051f68695c6": {
+      "first_seen": "2026-10-13T15:40:49.797080",
+      "title": "Apel pentru candidaturi: Orchestra Erasmus 2027",
+      "url": "https://www.eurodesk.ro/apel-pentru-candidaturi-orchestra-erasmus-2027/",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineri",
+        "culturale"
+      ]
     }
   },
-  "last_updated": "2026-10-12T17:31:18.942704"
+  "last_updated": "2026-10-13T15:40:50.145165"
 }
