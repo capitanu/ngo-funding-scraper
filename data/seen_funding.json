@@ -64,18 +64,6 @@
         "civic"
       ]
     },
-    "ngohub_5e12716a7d52": {
-      "first_seen": "2026-02-06T19:19:18.130082",
-      "title": "Funding Call",
-      "url": "https://www.ngohub.ro/ro/funding-call",
-      "source": "ngohub",
-      "deadline": null,
-      "matched_keywords": [
-        "ong",
-        "ngo",
-        "grant"
-      ]
-    },
     "fdsc_e4de8e983e5f": {
       "first_seen": "2026-07-09T10:57:15.018808",
       "title": "Programul EEA Civil Society Fund \u00een Rom\u00e2nia lanseaz\u0103 7 apeluri de proiecte",
@@ -205,7 +193,39 @@
         "tineri",
         "culturale"
       ]
+    },
+    "fonduri_structurale_c0fe62c8cd05": {
+      "first_seen": "2026-10-21T13:34:40.262214",
+      "title": "PIDS: S-a prelungit apelul pentru cre\u0219terea accesului profesioni\u0219tilor din domeniul serviciilor sociale pentru copii \u0219i familii la programe de formare continu\u0103Autoritatea de Management pentru Programul Incluziune \u0219i Demnitate Social\u0103 din cadrul Ministerului Investi\u021biilor \u0219i Proiectelor Europene a publicat as...21 Octombrie 2026Cite\u0219te articolul",
+      "url": "https://www.fonduri-structurale.ro/stiri/41581/pids-s-a-prelungit-apelul-pentru-cresterea-accesului-profesionistilor-din-domeniul-serviciilor-sociale-pentru-copii-si-familii-la-programe-de-formare-continua",
+      "source": "fonduri_structurale",
+      "deadline": null,
+      "matched_keywords": [
+        "copii",
+        "incluziune"
+      ]
+    },
+    "fonduri_structurale_8b7d05fe9f9a": {
+      "first_seen": "2026-10-21T13:34:40.263278",
+      "title": "Cre\u0219terea accesului profesioni\u0219tilor din domeniul serviciilor sociale pentru copii \u0219i\nfamilii la programe de formare continu\u0103Apelul de proiecte sprijin\u0103 strategiile na\u021bionale pentru reducerea s\u0103r\u0103ciei \u0219i sus\u021binerea grupurilor vulnerabile, finan\u021b\u00e2nd activit\u0103\u021bi pentru servicii...Programul Incluziune \u0219i Demnitate Social\u010327 Aug. 2026 - 30 Nov. 2026Finan\u021bare activ\u0103Vezi mai multe detalii",
+      "url": "https://www.fonduri-structurale.ro/finantari/1535/cresterea-accesului-profesionistilor-din-domeniul-serviciilor-sociale-pentru-copii-si-familii-la-programe-de-formare-continua",
+      "source": "fonduri_structurale",
+      "deadline": null,
+      "matched_keywords": [
+        "copii",
+        "incluziune"
+      ]
+    },
+    "ngohub_5ec09809a47c": {
+      "first_seen": "2026-10-21T13:34:40.304185",
+      "title": "23OctProgram de stagii de practic\u0103 la NATO2 zile r\u0103mase",
+      "url": "https://www.eurodesk.ro/oportunitati/19706/program-de-stagii-de-practica-la-nato/",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineri"
+      ]
     }
   },
-  "last_updated": "2026-10-20T13:24:47.922557"
+  "last_updated": "2026-10-21T13:34:40.897162"
 }
