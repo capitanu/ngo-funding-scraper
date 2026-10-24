@@ -205,16 +205,6 @@
         "incluziune"
       ]
     },
-    "ngohub_5ec09809a47c": {
-      "first_seen": "2026-10-21T13:34:40.304185",
-      "title": "23OctProgram de stagii de practic\u0103 la NATO2 zile r\u0103mase",
-      "url": "https://www.eurodesk.ro/oportunitati/19706/program-de-stagii-de-practica-la-nato/",
-      "source": "ngohub",
-      "deadline": null,
-      "matched_keywords": [
-        "tineri"
-      ]
-    },
     "fdsc_8fcfc585dff7": {
       "first_seen": "2026-10-22T13:36:31.437844",
       "title": "Ecosistemele societ\u0103\u021bii civile pentru statul de drept: instrumente \u0219i practici regionale",
@@ -239,16 +229,26 @@
         "grant"
       ]
     },
-    "fonduri_structurale_2a4c5e36e19e": {
-      "first_seen": "2026-10-23T13:11:45.111250",
-      "title": "Cel de-al treilea apel din cadrul schemei de ajutor de minimis pentru sectorul cultural independent a fost am\u00e2nat pentru anul viitor!Ministerul Culturii a anun\u021bat ieri, 22 octombrie 2026, am\u00e2narea apelului 3 aferent Schemei de ajutor de minimis pentru sectorul cultural independent p...23 Octombrie 2026Cite\u0219te articolul",
-      "url": "https://www.fonduri-structurale.ro/stiri/41595/cel-de-al-treilea-apel-din-cadrul-schemei-de-ajutor-de-minimis-pentru-sectorul-cultural-independent-a-fost-amanat-pentru-anul-viitor",
+    "fonduri_structurale_5fcc55bf7bba": {
+      "first_seen": "2026-10-24T12:30:27.900517",
+      "title": "PIDS: Lista intermediar\u0103 nr. 8 a proiectelor aprobate pe apelul pentru introducerea \u00een MySMIS2021+ a fi\u0219elor de proiecte selectate de GAL \u2013 etapa a III-a a mecanismului DLRCAutoritatea de Management pentru Programul Incluziune \u0219i Demnitate Social\u0103 (PIDS) 2021 \u2013 2027 a publicat ast\u0103zi, 23 octombrie 2026, lista intermediar\u0103...23 Octombrie 2026Cite\u0219te articolul",
+      "url": "https://www.fonduri-structurale.ro/stiri/41606/pids-lista-intermediara-nr-8-a-proiectelor-aprobate-pe-apelul-pentru-introducerea-in-my-smis-2021-a-fiselor-de-proiecte-selectate-de-gal-etapa-a-iii-a-a-mecanismului-dlrc",
       "source": "fonduri_structurale",
       "deadline": null,
       "matched_keywords": [
-        "cultural"
+        "incluziune"
+      ]
+    },
+    "ngohub_a7165d607ef3": {
+      "first_seen": "2026-10-24T12:30:27.947256",
+      "title": "30OctProgramul Eurodyssey6 zile r\u0103mase",
+      "url": "https://www.eurodesk.ro/oportunitati/19613/programul-eurodyssey/",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineri"
       ]
     }
   },
-  "last_updated": "2026-10-23T13:11:45.274570"
+  "last_updated": "2026-10-24T12:30:28.093360"
 }
