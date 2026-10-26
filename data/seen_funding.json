@@ -64,19 +64,6 @@
         "civic"
       ]
     },
-    "fdsc_e4de8e983e5f": {
-      "first_seen": "2026-07-09T10:57:15.018808",
-      "title": "Programul EEA Civil Society Fund \u00een Rom\u00e2nia lanseaz\u0103 7 apeluri de proiecte",
-      "url": "https://www.fdsc.ro/programul-eea-civil-society-fund-in-romania-lanseaza-7-apeluri-de-proiecte/",
-      "source": "fdsc",
-      "deadline": null,
-      "matched_keywords": [
-        "civil society",
-        "grant",
-        "granturi",
-        "capacitare"
-      ]
-    },
     "fdsc_fe582dcecc2e": {
       "first_seen": "2026-07-20T10:54:48.375659",
       "title": "BRD HUB START \u2013 Programul dedicat exclusiv organiza\u021biilor studen\u021be\u0219ti din Rom\u00e2nia",
@@ -205,18 +192,6 @@
         "incluziune"
       ]
     },
-    "fdsc_8fcfc585dff7": {
-      "first_seen": "2026-10-22T13:36:31.437844",
-      "title": "Ecosistemele societ\u0103\u021bii civile pentru statul de drept: instrumente \u0219i practici regionale",
-      "url": "https://www.fdsc.ro/ecosistemele-societatii-civile-pentru-statul-de-drept-dezbatere-in-cadrul-rule-of-law-forum/",
-      "source": "fdsc",
-      "deadline": null,
-      "matched_keywords": [
-        "ong",
-        "civil society",
-        "capacitare"
-      ]
-    },
     "ngohub_5e12716a7d52": {
       "first_seen": "2026-10-22T13:36:31.460236",
       "title": "Funding Call",
@@ -238,7 +213,80 @@
       "matched_keywords": [
         "tineri"
       ]
+    },
+    "fonduri_structurale_fca2a25b92d2": {
+      "first_seen": "2026-10-26T14:57:12.693684",
+      "title": "Granturi de p\u00e2n\u0103 la 5.000 USD pentru tineri: Atelier de preg\u0103tire a proiectelor la Timi\u0219oaraPrim\u0103ria Municipiului Timi\u0219oara organizeaz\u0103 mar\u021bi, 27 octombrie 2026, un atelier de co-creare dedicat tinerilor interesa\u021bi s\u0103 ob\u021bin\u0103 finan\u021bare prin pr...26 Octombrie 2026Cite\u0219te articolul",
+      "url": "https://www.fonduri-structurale.ro/stiri/41610/granturi-de-pana-la-5-000-usd-pentru-tineri-atelier-de-pregatire-a-proiectelor-la-timisoara",
+      "source": "fonduri_structurale",
+      "deadline": null,
+      "matched_keywords": [
+        "tineri",
+        "granturi"
+      ]
+    },
+    "fonduri_structurale_9a74ff6af649": {
+      "first_seen": "2026-10-26T14:57:12.693981",
+      "title": "PIDS: Varianta consolidat\u0103 a ghidului pentru cre\u0219terea accesului profesioni\u0219tilor din domeniul serviciilor sociale pentru copii \u0219i familii la programe de formare continu\u0103Autoritatea de Management pentru Programul Incluziune \u0219i Demnitate Social\u0103 a publicat vineri, 23 octombrie 2026, varianta consolidat\u0103 a ghidului solic...25 Octombrie 2026Cite\u0219te articolul",
+      "url": "https://www.fonduri-structurale.ro/stiri/41609/pids-varianta-consolidata-a-ghidului-pentru-cresterea-accesului-profesionistilor-din-domeniul-serviciilor-sociale-pentru-copii-si-familii-la-programe-de-formare-continua",
+      "source": "fonduri_structurale",
+      "deadline": null,
+      "matched_keywords": [
+        "copii",
+        "incluziune"
+      ]
+    },
+    "fdsc_c62bdf1bbc83": {
+      "first_seen": "2026-10-26T14:57:12.702145",
+      "title": "C\u00e2nd ONG-urile pierd resurse \u0219i autonomie, comunit\u0103\u021bile pierd sprijinul de care au nevoie.",
+      "url": "https://www.fdsc.ro/cand-ong-urile-pierd-resurse-si-autonomie-comunitatile-pierd-sprijinul-de-care-au-nevoie/",
+      "source": "fdsc",
+      "deadline": null,
+      "matched_keywords": [
+        "copii",
+        "ong",
+        "capacitare",
+        "sponsorizare"
+      ]
+    },
+    "fdsc_661ad8a97350": {
+      "first_seen": "2026-10-26T14:57:12.704325",
+      "title": "Ecosistemele societ\u0103\u021bii civile pentru statul de drept: instrumente \u0219i practici regionale",
+      "url": "https://www.fdsc.ro/ecosistemele-societatii-civile-pentru-statul-de-drept-instrumente-si-practici-regionale/",
+      "source": "fdsc",
+      "deadline": null,
+      "matched_keywords": [
+        "ong",
+        "civil society",
+        "capacitare"
+      ]
+    },
+    "ngohub_a1f11ab5f942": {
+      "first_seen": "2026-10-26T14:57:12.741141",
+      "title": "26OctApel pentru raportori: EU Youth ConferenceUltima zi!",
+      "url": "https://www.eurodesk.ro/oportunitati/23247/apel-pentru-raportori-eu-youth-conference/",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineret",
+        "tineri",
+        "youth"
+      ]
+    },
+    "ngohub_f90faeba0023": {
+      "first_seen": "2026-10-26T14:57:12.743353",
+      "title": "26OctApel pentru facilitatori: EU Youth ConferenceUltima zi!",
+      "url": "https://www.eurodesk.ro/oportunitati/23246/apel-pentru-facilitatori-eu-youth-conference/",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineret",
+        "tineri",
+        "youth",
+        "ong",
+        "incluziv"
+      ]
     }
   },
-  "last_updated": "2026-10-25T13:01:58.250721"
+  "last_updated": "2026-10-26T14:57:13.661930"
 }
