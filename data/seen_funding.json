@@ -204,16 +204,6 @@
         "grant"
       ]
     },
-    "ngohub_a7165d607ef3": {
-      "first_seen": "2026-10-24T12:30:27.947256",
-      "title": "30OctProgramul Eurodyssey6 zile r\u0103mase",
-      "url": "https://www.eurodesk.ro/oportunitati/19613/programul-eurodyssey/",
-      "source": "ngohub",
-      "deadline": null,
-      "matched_keywords": [
-        "tineri"
-      ]
-    },
     "fdsc_c62bdf1bbc83": {
       "first_seen": "2026-10-26T14:57:12.702145",
       "title": "C\u00e2nd ONG-urile pierd resurse \u0219i autonomie, comunit\u0103\u021bile pierd sprijinul de care au nevoie.",
@@ -260,28 +250,17 @@
         "incluziune"
       ]
     },
-    "fonduri_structurale_81aebf9d408c": {
-      "first_seen": "2026-10-30T14:54:52.371130",
-      "title": "PIDS: Se solicit\u0103 clarific\u0103ri aferente etapei de evaluare tehnic\u0103 \u0219i financiar\u0103 calitativ\u0103 pe apelul pentru implementarea pactului de integritateAutoritatea de Management pentru Programul Incluziune \u0219i Demnitate Social\u0103 (PIDS) 2021-2027 informeaz\u0103 solicitan\u021bii c\u0103, \u00eencep\u00e2nd de ast\u0103zi, 30 octombr...30 Octombrie 2026Cite\u0219te articolul",
-      "url": "https://www.fonduri-structurale.ro/stiri/41657/pids-se-solicita-clarificari-aferente-etapei-de-evaluare-tehnica-si-financiara-calitativa-pe-apelul-pentru-implementarea-pactului-de-integritate",
-      "source": "fonduri_structurale",
-      "deadline": null,
-      "matched_keywords": [
-        "incluziune"
-      ]
-    },
-    "ngohub_ee7db69d38ce": {
-      "first_seen": "2026-10-30T14:54:52.402565",
-      "title": "31OctConcurs de design Time to Move1 zi r\u0103mas\u0103",
-      "url": "https://www.eurodesk.ro/oportunitati/19776/concurs-de-design-time-to-move/",
+    "ngohub_f3b5ef53dbc0": {
+      "first_seen": "2026-10-31T14:23:55.526388",
+      "title": "31OctBursa One Young WorldUltima zi!",
+      "url": "https://www.eurodesk.ro/oportunitati/20955/bursa-one-young-world/",
       "source": "ngohub",
       "deadline": null,
       "matched_keywords": [
         "tineret",
-        "tineri",
-        "digital"
+        "tineri"
       ]
     }
   },
-  "last_updated": "2026-10-30T14:54:52.872879"
+  "last_updated": "2026-10-31T14:23:55.727261"
 }
