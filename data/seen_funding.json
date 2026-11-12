@@ -218,10 +218,22 @@
         "capacitare"
       ]
     },
-    "ngohub_45b5fd62cb23": {
-      "first_seen": "2026-11-06T15:45:56.372231",
-      "title": "9NovProgramul de stagii UNICEF3 zile r\u0103mase",
-      "url": "https://www.eurodesk.ro/oportunitati/21033/programul-de-stagii-unicef/",
+    "ngohub_ec481a676b48": {
+      "first_seen": "2026-11-12T16:39:47.070298",
+      "title": "14NovApel pentru selectarea Organiza\u021biilor Promotoare pentru DUET2 zile r\u0103mase",
+      "url": "https://www.eurodesk.ro/oportunitati/23783/apel-pentru-selectarea-organizatiilor-promotoare-pentru-duet/",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineret",
+        "tineri",
+        "youth"
+      ]
+    },
+    "ngohub_4cab55b391fe": {
+      "first_seen": "2026-11-12T16:39:47.072513",
+      "title": "15NovProgramul diplomatic al UE pentru regiunea extins\u01033 zile r\u0103mase",
+      "url": "https://www.eurodesk.ro/oportunitati/22640/programul-diplomatic-al-ue-pentru-regiunea-extinsa/",
       "source": "ngohub",
       "deadline": null,
       "matched_keywords": [
@@ -230,5 +242,5 @@
       ]
     }
   },
-  "last_updated": "2026-11-11T15:56:46.861307"
+  "last_updated": "2026-11-12T16:39:47.548550"
 }
