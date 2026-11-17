@@ -407,7 +407,30 @@
         "tineret",
         "tineri"
       ]
+    },
+    "finantare_ro_c065ffe8e5ac": {
+      "first_seen": "2026-11-17T17:29:15.510998",
+      "title": "Start-up Nation 2017: Cei care au PFA vor putea obtine, pe o firma noua, pana la 200.000 RON de la stat",
+      "url": "https://www.finantare.ro/start-up-nation-2017-cei-care-au-pfa-vor-putea-obtine-pe-o-firma-noua-pana-la-200-000-ron-de-la-stat-promovarea-pe-internet-eligibila.html",
+      "source": "finantare_ro",
+      "deadline": null,
+      "matched_keywords": [
+        "nerambursabil",
+        "tehnologie"
+      ]
+    },
+    "ngohub_60aa367457bf": {
+      "first_seen": "2026-11-17T17:29:15.606538",
+      "title": "27NovConcurs de scurtmetraje pentru de\u021bin\u0103torii de carduri EYCA10 zile r\u0103mase",
+      "url": "https://www.eurodesk.ro/oportunitati/23187/concurs-de-scurtmetraje-pentru-detinatorii-de-carduri-eyca/",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineret",
+        "tineri",
+        "youth"
+      ]
     }
   },
-  "last_updated": "2026-11-16T18:06:11.695600"
+  "last_updated": "2026-11-17T17:29:16.100577"
 }
