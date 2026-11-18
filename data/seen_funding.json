@@ -282,16 +282,6 @@
         "technology"
       ]
     },
-    "finantare_ro_21202642938e": {
-      "first_seen": "2026-11-16T18:06:10.691966",
-      "title": "10 milioane de euro pentru micro\u00eentreprinderi \u0219i IMM-uri din Regiunea de Dezvoltare Sud-Est",
-      "url": "https://www.finantare.ro/10-milioane-de-euro-pentru-microintreprinderi-si-imm-uri-din-regiunea-de-dezvoltare-sud-est.html",
-      "source": "finantare_ro",
-      "deadline": "14-10-2026",
-      "matched_keywords": [
-        "inovare"
-      ]
-    },
     "finantare_ro_4d68bd4b34a2": {
       "first_seen": "2026-11-16T18:06:10.693160",
       "title": "POCU: Ghidul \u201eM\u0103suri pentru tinerii NEET II- Subven\u021bionarea locurilor de munc\u0103\u201d",
@@ -419,18 +409,30 @@
         "tehnologie"
       ]
     },
-    "ngohub_60aa367457bf": {
-      "first_seen": "2026-11-17T17:29:15.606538",
-      "title": "27NovConcurs de scurtmetraje pentru de\u021bin\u0103torii de carduri EYCA10 zile r\u0103mase",
-      "url": "https://www.eurodesk.ro/oportunitati/23187/concurs-de-scurtmetraje-pentru-detinatorii-de-carduri-eyca/",
+    "ngohub_45b5fd62cb23": {
+      "first_seen": "2026-11-18T17:01:16.134455",
+      "title": "18NovProgramul de stagii UNICEFUltima zi!",
+      "url": "https://www.eurodesk.ro/oportunitati/21033/programul-de-stagii-unicef/",
       "source": "ngohub",
       "deadline": null,
       "matched_keywords": [
         "tineret",
-        "tineri",
-        "youth"
+        "tineri"
+      ]
+    },
+    "ngohub_45d26d2d13a8": {
+      "first_seen": "2026-11-18T17:01:16.137771",
+      "title": "Eurodesk Opportunity Finder",
+      "url": "https://programmes.eurodesk.eu/",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "science",
+        "youth",
+        "innovation",
+        "technology"
       ]
     }
   },
-  "last_updated": "2026-11-17T17:29:16.100577"
+  "last_updated": "2026-11-18T17:01:16.442553"
 }
