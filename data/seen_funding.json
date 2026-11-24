@@ -260,17 +260,6 @@
         "granturi"
       ]
     },
-    "finantare_ro_94e938cb61a8": {
-      "first_seen": "2026-11-16T18:06:10.687139",
-      "title": "Misiunea Economic\u0103 Afaceri.ro Georgia, Tennessee & Louisiana 2026: acces direct la pia\u021ba din sudul Statelor Unite pentru antreprenorii rom\u00e2ni",
-      "url": "https://www.finantare.ro/misiunea-economica-afaceri-ro-georgia-tennessee-louisiana-2026-acces-direct-la-piata-din-sudul-statelor-unite-pentru-antreprenorii-romani.html",
-      "source": "finantare_ro",
-      "deadline": null,
-      "matched_keywords": [
-        "innovation",
-        "tehnologie"
-      ]
-    },
     "finantare_ro_963bec6aa8c0": {
       "first_seen": "2026-11-16T18:06:10.689451",
       "title": "Forumul Economic Regional SUA\u2013Rom\u00e2nia: pe 22\u201323 octombrie, Ia\u0219iul g\u0103zduie\u0219te un dialog la nivel \u00eenalt despre investi\u021bii, tehnologie \u0219i accesul pe pia\u021ba american\u0103",
@@ -467,7 +456,17 @@
         "ong",
         "sponsorizare"
       ]
+    },
+    "finantare_ro_912af96cb784": {
+      "first_seen": "2026-11-24T19:25:21.934358",
+      "title": "PR Nord-Est: Apel 3 Colaborare interregional\u0103 VInnovate",
+      "url": "https://www.finantare.ro/pr-nord-est-apel-3-colaborare-interregionala-vinnovate.html",
+      "source": "finantare_ro",
+      "deadline": "20.11.2026",
+      "matched_keywords": [
+        "inovare"
+      ]
     }
   },
-  "last_updated": "2026-11-23T19:57:40.737040"
+  "last_updated": "2026-11-24T19:25:22.182805"
 }
