@@ -250,16 +250,6 @@
         "culturale"
       ]
     },
-    "finantare_ro_731271cd2bae": {
-      "first_seen": "2026-11-16T18:06:10.683467",
-      "title": "48 milioane lei \u2013 Granturi institu\u021bionale pentru acordarea de burse de cercetare postdoctorale (BPD)",
-      "url": "https://www.finantare.ro/48-milioane-lei-granturi-institutionale-pentru-acordarea-de-burse-de-cercetare-postdoctorale-bpd.html",
-      "source": "finantare_ro",
-      "deadline": null,
-      "matched_keywords": [
-        "granturi"
-      ]
-    },
     "finantare_ro_963bec6aa8c0": {
       "first_seen": "2026-11-16T18:06:10.689451",
       "title": "Forumul Economic Regional SUA\u2013Rom\u00e2nia: pe 22\u201323 octombrie, Ia\u0219iul g\u0103zduie\u0219te un dialog la nivel \u00eenalt despre investi\u021bii, tehnologie \u0219i accesul pe pia\u021ba american\u0103",
@@ -466,7 +456,19 @@
       "matched_keywords": [
         "inovare"
       ]
+    },
+    "finantare_ro_5e18ac6c2795": {
+      "first_seen": "2026-11-25T18:31:14.993173",
+      "title": "Finan\u021b\u0103ri europene de p\u00e2n\u0103 la 5,2 miliarde de euro pentru inovare \u0219i tehnologii verzi",
+      "url": "https://www.finantare.ro/finantari-europene-de-pana-la-52-miliarde-de-euro-pentru-inovare-si-tehnologii-verzi.html",
+      "source": "finantare_ro",
+      "deadline": null,
+      "matched_keywords": [
+        "granturi",
+        "inovare",
+        "innovation"
+      ]
     }
   },
-  "last_updated": "2026-11-24T19:25:22.182805"
+  "last_updated": "2026-11-25T18:31:15.249597"
 }
