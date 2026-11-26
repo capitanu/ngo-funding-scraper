@@ -366,17 +366,6 @@
         "tehnologie"
       ]
     },
-    "ngohub_d890668bef8b": {
-      "first_seen": "2026-11-16T18:06:10.770349",
-      "title": "25NovConcurs: Jurnalism pentru un mediu curat9 zile r\u0103mase",
-      "url": "https://www.eurodesk.ro/oportunitati/23675/concurs-jurnalism-pentru-un-mediu-curat/",
-      "source": "ngohub",
-      "deadline": null,
-      "matched_keywords": [
-        "tineret",
-        "tineri"
-      ]
-    },
     "finantare_ro_c065ffe8e5ac": {
       "first_seen": "2026-11-17T17:29:15.510998",
       "title": "Start-up Nation 2017: Cei care au PFA vor putea obtine, pe o firma noua, pana la 200.000 RON de la stat",
@@ -468,7 +457,29 @@
         "inovare",
         "innovation"
       ]
+    },
+    "fonduri_structurale_3943e59e133e": {
+      "first_seen": "2026-11-26T18:13:38.601955",
+      "title": "Apel de finan\u021bare pentru dezvoltarea jocurilor video \u0219i a con\u021binutului digital imersiv",
+      "url": "https://www.fonduri-structurale.ro/finantari/2585/apel-de-finantare-pentru-dezvoltarea-jocurilor-video-si-a-continutului-digital-imersiv",
+      "source": "fonduri_structurale",
+      "deadline": null,
+      "matched_keywords": [
+        "digital"
+      ]
+    },
+    "ngohub_d57a0ec897ec": {
+      "first_seen": "2026-11-26T18:13:38.643986",
+      "title": "30NovApel pentru delega\u021bi tineri - Revitalizarea politicii4 zile r\u0103mase",
+      "url": "https://www.eurodesk.ro/oportunitati/21075/apel-pentru-delegati-tineri-revitalizarea-politicii/",
+      "source": "ngohub",
+      "deadline": null,
+      "matched_keywords": [
+        "tineret",
+        "tineri",
+        "youth"
+      ]
     }
   },
-  "last_updated": "2026-11-25T18:31:15.249597"
+  "last_updated": "2026-11-26T18:13:39.020633"
 }
